@@ -1,0 +1,1942 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Galepro 2.1.2\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/theme/salespro\n"
+"POT-Creation-Date: 2023-03-30 02:55+0700\n"
+"PO-Revision-Date: 2023-03-30 02:55+0700\n"
+"Last-Translator: \n"
+"Language-Team: Gian Mokhammad Ramadhan <g14nblog@gmail.com>\n"
+"Language: id_ID\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Poedit 3.2.2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;"
+"_n_noop:1,2;_x:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;_ex:1,2c;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_c;"
+"_nc:4c,1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: 404.php:34
+msgid "Error 404"
+msgstr "Kesalahan 404"
+
+#: 404.php:35 template-parts/content-none.php:20
+msgid "Nothing Found"
+msgstr "Tidak Ditemukan"
+
+#: 404.php:39
+msgid ""
+"It looks like nothing was found at this location. Maybe try one of the links "
+"below or a search?"
+msgstr ""
+"Sepertinya tidak ditemukan di lokasi ini. Mungkin mencoba salah satu link di "
+"bawah ini atau pencarian?"
+
+#: comments.php:43
+#, php-format
+msgid "%1$s comment"
+msgid_plural "%1$s comments"
+msgstr[0] "%1$s komentar"
+
+#: comments.php:63
+msgid "Comment navigation"
+msgstr "Navigasi komentar"
+
+#: comments.php:86
+msgid "Comments are closed."
+msgstr "Komentar ditutup."
+
+#: comments.php:98
+msgid "Name"
+msgstr "Nama"
+
+#: comments.php:103
+msgid "Email"
+msgstr "Email"
+
+#: comments.php:108
+msgid "Website"
+msgstr "Situs"
+
+#: comments.php:113 comments.php:114
+msgctxt "noun"
+msgid "Comment"
+msgstr "Komentar"
+
+#: footer.php:85
+msgid "Non AMP Version"
+msgstr "Versi Non AMP"
+
+#: footer.php:93
+msgid "https://wordpress.org/"
+msgstr "https://wordpress.org/"
+
+#: footer.php:93
+#, php-format
+msgid "Proudly powered by %s"
+msgstr "Didukung oleh %s"
+
+#: footer.php:95
+msgid "http://www.gianmr.com/"
+msgstr "http://www.gianmr.com/"
+
+#: footer.php:95
+#, php-format
+msgid "Theme: %s"
+msgstr "Tema: %s"
+
+#: footer.php:144 inc/template-tags.php:204 inc/template-tags.php:207
+#: inc/template-tags.php:428
+msgid "Search"
+msgstr "Pencarian"
+
+#: functions.php:74
+msgid "Primary"
+msgstr "Primer"
+
+#: functions.php:75
+msgid "Secondary"
+msgstr "Secondary"
+
+#: functions.php:139
+msgid "expand"
+msgstr "perluas"
+
+#: functions.php:140
+msgid "collapse"
+msgstr "sempitkan"
+
+#: functions.php:208 inc/customizer-library/gmrtheme-customizer.php:939
+#: inc/customizer-library/gmrtheme-customizer.php:1257
+msgid "Sidebar"
+msgstr "Sidebar"
+
+#: functions.php:210
+msgid "Add widgets here."
+msgstr "Tambahkan widget disini."
+
+#: functions.php:224
+msgid "Footer "
+msgstr "Footer "
+
+#: header.php:39
+msgid "Skip to content"
+msgstr "Loncat ke konten"
+
+#: header.php:99
+msgid "Facebook"
+msgstr "Facebook"
+
+#: header.php:103
+msgid "Twitter"
+msgstr "Twitter"
+
+#: header.php:107
+msgid "Pinterest"
+msgstr "Pinterest"
+
+#: header.php:111
+msgid "Tumblr"
+msgstr "Tumblr"
+
+#: header.php:115
+msgid "Stumbleupon"
+msgstr "Stumbleupon"
+
+#: header.php:119
+msgid "WordPress"
+msgstr "WorPpress"
+
+#: header.php:123
+msgid "Instagram"
+msgstr "Instagram"
+
+#: header.php:127
+msgid "Dribbble"
+msgstr "Dribbble"
+
+#: header.php:131
+msgid "Vimeo"
+msgstr "Vimeo"
+
+#: header.php:135
+msgid "Linkedin"
+msgstr "Linkedin"
+
+#: header.php:139
+msgid "Deviantart"
+msgstr "Deviantart"
+
+#: header.php:143
+msgid "Myspace"
+msgstr "Myspace"
+
+#: header.php:147
+msgid "Skype"
+msgstr "Skype"
+
+#: header.php:151
+msgid "Youtube"
+msgstr "Youtube"
+
+#: header.php:155
+msgid "Picassa"
+msgstr "Picassa"
+
+#: header.php:159
+msgid "Flickr"
+msgstr "Flickr"
+
+#: header.php:163
+msgid "Blogger"
+msgstr "Blogger"
+
+#: header.php:167
+msgid "Spotify"
+msgstr "Spotify"
+
+#: header.php:171
+msgid "Delicious"
+msgstr "Delicious"
+
+#: header.php:175
+msgid "Tiktok"
+msgstr "Tiktok"
+
+#: header.php:179
+msgid "Telegram"
+msgstr "Telegram"
+
+#: header.php:183
+msgid "Soundcloud"
+msgstr "Soundcloud"
+
+#: header.php:187
+msgid "RSS"
+msgstr "RSS"
+
+#: header.php:236 header.php:252
+msgid "MENU"
+msgstr "MENU"
+
+#: inc/class-gmr-metabox-settings.php:38
+msgid "Theme Settings"
+msgstr "Pengaturan tema"
+
+#: inc/class-gmr-metabox-settings.php:106
+msgid "Disable the sidebar for this page?"
+msgstr "Nonaktifkan sidebar pada halaman ini?"
+
+#: inc/class-gmr-metabox-settings.php:108
+msgid ""
+"Page template builder is fullwidth so you no need check disable sidebar."
+msgstr ""
+"Tempalte builder halaman lebar penuh sehingga anda tidak perlu cek untuk "
+"nonaktifkan sidebar."
+
+#: inc/class-tgm-plugin-activation.php:327
+msgid "Install Required Plugins"
+msgstr "Pasang Plugin Yang Diperlukan"
+
+#: inc/class-tgm-plugin-activation.php:328
+msgid "Install Plugins"
+msgstr "Pasang Plugin"
+
+#: inc/class-tgm-plugin-activation.php:330
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr "Pemasangan Plugin: %s"
+
+#: inc/class-tgm-plugin-activation.php:332
+#, php-format
+msgid "Updating Plugin: %s"
+msgstr "Memperbarui Plugin: %s"
+
+#: inc/class-tgm-plugin-activation.php:333
+msgid "Something went wrong with the plugin API."
+msgstr "Ada yang salah dengan API plugin."
+
+#: inc/class-tgm-plugin-activation.php:336
+#, php-format
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] "Tema ini membutuhkan plugin berikut: %1$s."
+
+#: inc/class-tgm-plugin-activation.php:342
+#, php-format
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] "Tema ini merekomendasikan plugin berikut: %1$s."
+
+#: inc/class-tgm-plugin-activation.php:348
+#, php-format
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgid_plural ""
+"The following plugins need to be updated to their latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+"Plugin berikut perlu diperbarui ke versi terbarunya untuk memastikan "
+"kompatibilitas maksimum dengan tema ini: %1$s."
+
+#: inc/class-tgm-plugin-activation.php:354
+#, php-format
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] "Tersedia pembaruan untuk:  %1$s."
+
+#: inc/class-tgm-plugin-activation.php:360
+#, php-format
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] "Plugin yang diperlukan berikut ini saat ini tidak aktif: %1$s."
+
+#: inc/class-tgm-plugin-activation.php:366
+#, php-format
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] "Plugin yang direkomendasikan berikut saat ini tidak aktif: %1$s."
+
+#: inc/class-tgm-plugin-activation.php:371
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] "Mulai memasang plugin"
+
+#: inc/class-tgm-plugin-activation.php:376
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] "Mulai memperbarui plugin"
+
+#: inc/class-tgm-plugin-activation.php:381
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] "Mulai mengaktifkan plugin"
+
+#: inc/class-tgm-plugin-activation.php:385
+msgid "Return to Required Plugins Installer"
+msgstr "Kembali ke Pemasang Plugin Yang Diperlukan"
+
+#: inc/class-tgm-plugin-activation.php:386
+#: inc/class-tgm-plugin-activation.php:827
+#: inc/class-tgm-plugin-activation.php:2533
+#: inc/class-tgm-plugin-activation.php:3580
+msgid "Return to the Dashboard"
+msgstr "Kembali ke Dasbor"
+
+#: inc/class-tgm-plugin-activation.php:387
+#: inc/class-tgm-plugin-activation.php:3159
+msgid "Plugin activated successfully."
+msgstr "Plugin berhasil diaktifkan."
+
+#: inc/class-tgm-plugin-activation.php:388
+msgid "Following plugin was activated successfully:"
+msgstr "Plugin berikut berhasil diaktifkan:"
+
+#: inc/class-tgm-plugin-activation.php:390
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr "Tidak ada tindakan yang diambil. Plugin %1$s telah aktif."
+
+#: inc/class-tgm-plugin-activation.php:392
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+"Plugin tidak diaktifkan. Sebuah versi yang lebih tinggi dari %s diperlukan "
+"untuk tema ini. Silahkan perbaharui plugin."
+
+#: inc/class-tgm-plugin-activation.php:394
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr "Semua plugin berhasil dipasang dan diaktifkan. %1$s"
+
+#: inc/class-tgm-plugin-activation.php:395
+msgid "Dismiss this notice"
+msgstr "Singkirkan pemberitahuan ini"
+
+#: inc/class-tgm-plugin-activation.php:396
+msgid ""
+"There are one or more required or recommended plugins to install, update or "
+"activate."
+msgstr ""
+"Ada satu atau lebih plugin yang diperlukan atau dianjurkan untuk dipasang, "
+"diperbarui atau diaktifkan."
+
+#: inc/class-tgm-plugin-activation.php:397
+msgid "Please contact the administrator of this site for help."
+msgstr "Silahkan hubungi administrator situs ini untuk bantuan."
+
+#: inc/class-tgm-plugin-activation.php:522
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr "Plugin ini perlu diperbarui agar sesuai dengan tema anda."
+
+#: inc/class-tgm-plugin-activation.php:523
+msgid "Update Required"
+msgstr "Diperlukan Pembaharuan"
+
+#: inc/class-tgm-plugin-activation.php:934
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+"Paket remot plugin tidak berisi folder dengan slug yang diinginkan dan "
+"penggantian nama tidak bekerja."
+
+#: inc/class-tgm-plugin-activation.php:934
+#: inc/class-tgm-plugin-activation.php:937
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+"Silahkan hubungi penyedia Plugin dan meminta mereka untuk paket plugin yang "
+"mereka sesuai dengan pedoman WordPress."
+
+#: inc/class-tgm-plugin-activation.php:937
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+"Paket plugin remote terdiri dari lebih dari satu file, tetapi file tidak "
+"dikemas dalam sebuah folder."
+
+#: inc/class-tgm-plugin-activation.php:1121
+#: inc/class-tgm-plugin-activation.php:2948
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr "dan"
+
+#: inc/class-tgm-plugin-activation.php:1982
+#, php-format
+msgid "TGMPA v%s"
+msgstr "TGMPA v%s"
+
+#: inc/class-tgm-plugin-activation.php:2273
+msgid "Required"
+msgstr "Diperlukan"
+
+#: inc/class-tgm-plugin-activation.php:2276
+msgid "Recommended"
+msgstr "Dianjurkan"
+
+#: inc/class-tgm-plugin-activation.php:2292
+msgid "WordPress Repository"
+msgstr "Repositori WordPress"
+
+#: inc/class-tgm-plugin-activation.php:2295
+msgid "External Source"
+msgstr "Sumber Luar"
+
+#: inc/class-tgm-plugin-activation.php:2298
+msgid "Pre-Packaged"
+msgstr "Pra-Dikemas"
+
+#: inc/class-tgm-plugin-activation.php:2315
+msgid "Not Installed"
+msgstr "Tidak Terpasang"
+
+#: inc/class-tgm-plugin-activation.php:2319
+msgid "Installed But Not Activated"
+msgstr "Terpasang Tetapi Tidak Aktif"
+
+#: inc/class-tgm-plugin-activation.php:2321
+msgid "Active"
+msgstr "Aktif"
+
+#: inc/class-tgm-plugin-activation.php:2327
+msgid "Required Update not Available"
+msgstr "Pembaharuan Yang Diperlukan tidak Tersedia"
+
+#: inc/class-tgm-plugin-activation.php:2330
+msgid "Requires Update"
+msgstr "Butuh Pembaharuan"
+
+#: inc/class-tgm-plugin-activation.php:2333
+msgid "Update recommended"
+msgstr "Pembaharuan yang dianjurkan"
+
+#: inc/class-tgm-plugin-activation.php:2342
+#, php-format
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr "%1$s, %2$s"
+
+#: inc/class-tgm-plugin-activation.php:2388
+#, php-format
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] "Semua <span class=\"count\">(%s)</span>"
+
+#: inc/class-tgm-plugin-activation.php:2392
+#, php-format
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] "Memasang <span class=\"count\">(%s)</span>"
+
+#: inc/class-tgm-plugin-activation.php:2396
+#, php-format
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] "Pembaruan tersedia <span class=\"count\">(%s)</span>"
+
+#: inc/class-tgm-plugin-activation.php:2400
+#, php-format
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] "Mengaktifkan <span class=\"count\">(%s)</span>"
+
+#: inc/class-tgm-plugin-activation.php:2482
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr "tidak diketahui"
+
+#: inc/class-tgm-plugin-activation.php:2490
+msgid "Installed version:"
+msgstr "Versi terpasang:"
+
+#: inc/class-tgm-plugin-activation.php:2498
+msgid "Minimum required version:"
+msgstr "Versi minimum yang diperlukan:"
+
+#: inc/class-tgm-plugin-activation.php:2510
+msgid "Available version:"
+msgstr "Versi tersedia:"
+
+#: inc/class-tgm-plugin-activation.php:2533
+msgid "No plugins to install, update or activate."
+msgstr "Tidak ada plugin untuk diinstal, diperbarui atau diaktifkan."
+
+#: inc/class-tgm-plugin-activation.php:2547
+msgid "Plugin"
+msgstr "Plugin"
+
+#: inc/class-tgm-plugin-activation.php:2548
+msgid "Source"
+msgstr "Sumber"
+
+#: inc/class-tgm-plugin-activation.php:2549
+msgid "Type"
+msgstr "Tipe"
+
+#: inc/class-tgm-plugin-activation.php:2553
+msgid "Version"
+msgstr "Versi"
+
+#: inc/class-tgm-plugin-activation.php:2554
+msgid "Status"
+msgstr "Status"
+
+#: inc/class-tgm-plugin-activation.php:2603
+#, php-format
+msgid "Install %2$s"
+msgstr "Pasang %2$s"
+
+#: inc/class-tgm-plugin-activation.php:2608
+#, php-format
+msgid "Update %2$s"
+msgstr "Perbaharui %2$s"
+
+#: inc/class-tgm-plugin-activation.php:2614
+#, php-format
+msgid "Activate %2$s"
+msgstr "Aktifkan %2$s"
+
+#: inc/class-tgm-plugin-activation.php:2684
+msgid "Upgrade message from the plugin author:"
+msgstr "Pesan penigkatan dari pembuat plugin:"
+
+#: inc/class-tgm-plugin-activation.php:2717
+msgid "Install"
+msgstr "Pasang"
+
+#: inc/class-tgm-plugin-activation.php:2723
+msgid "Update"
+msgstr "Perbaharui"
+
+#: inc/class-tgm-plugin-activation.php:2726
+msgid "Activate"
+msgstr "Aktifkan"
+
+#: inc/class-tgm-plugin-activation.php:2757
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+"Tidak ada plugin yang dipilih untuk dipasang. Tidak ada tindakan yang "
+"diambil."
+
+#: inc/class-tgm-plugin-activation.php:2759
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+"Tidak ada plugin yang dipilih untuk diperbarui. Tidak ada tindakan yang "
+"diambil."
+
+#: inc/class-tgm-plugin-activation.php:2800
+msgid "No plugins are available to be installed at this time."
+msgstr "Tidak ada plugin yang tersedia untuk dipasang pada saat ini."
+
+#: inc/class-tgm-plugin-activation.php:2802
+msgid "No plugins are available to be updated at this time."
+msgstr "Tidak ada plugin yang tersedia untuk diperbarui saat ini."
+
+#: inc/class-tgm-plugin-activation.php:2908
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+"Tidak ada plugin yang dipilih harus diaktifkan. Tidak ada tindakan yang "
+"diambil."
+
+#: inc/class-tgm-plugin-activation.php:2934
+msgid "No plugins are available to be activated at this time."
+msgstr "Tidak ada plugin yang tersedia untuk diaktifkan pada saat ini."
+
+#: inc/class-tgm-plugin-activation.php:2952
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] "Plugin berikut berhasil diaktifkan:"
+
+#: inc/class-tgm-plugin-activation.php:3158
+msgid "Plugin activation failed."
+msgstr "Aktivasi plugin gagal."
+
+#: inc/class-tgm-plugin-activation.php:3498
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr "Memperbarui Plugin %1$s (%2$d/%3$d)"
+
+#: inc/class-tgm-plugin-activation.php:3501
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr "Terjadi kesalahan saat memasang %1$s: <strong>%2$s</strong>."
+
+#: inc/class-tgm-plugin-activation.php:3503
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr "Pemasangan %1$s gagal."
+
+#: inc/class-tgm-plugin-activation.php:3507
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+"Proses pemasangan dan aktivasi dimulai. Proses ini mungkin memakan waktu "
+"cukup lama pada beberapa host, jadi harap bersabar."
+
+#: inc/class-tgm-plugin-activation.php:3509
+#: inc/class-tgm-plugin-activation.php:3517
+#, php-format
+msgid "%1$s done."
+msgstr "%1$s selesai."
+
+#: inc/class-tgm-plugin-activation.php:3510
+msgid "All installations and activations have been completed."
+msgstr "Semua pemasangan dan aktivasi telah selesai."
+
+#: inc/class-tgm-plugin-activation.php:3512
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr "Memasang dan Mengaktifkan Plugin %1$s (%2$d/%3$d)"
+
+#: inc/class-tgm-plugin-activation.php:3515
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+"Proses instalasi dimulai. Proses ini dapat berlangsung beberapa saat pada "
+"beberapa host, jadi harap bersabar."
+
+#: inc/class-tgm-plugin-activation.php:3518
+msgid "All installations have been completed."
+msgstr "Semua pemasangan telah selesai."
+
+#: inc/class-tgm-plugin-activation.php:3520
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr "Pemasangan Plugin %1$s (%2$d/%3$d)"
+
+#: inc/customizer-library/custom-controls/class-customizer-library-categories.php:29
+msgid "&mdash; Select &mdash;"
+msgstr "&mdash; Seleksi &mdash;"
+
+#: inc/customizer-library/extensions/fonts.php:22
+msgid "Standard Fonts"
+msgstr "Huruf Standar"
+
+#: inc/customizer-library/extensions/fonts.php:24
+msgid "Google Fonts"
+msgstr "Google Font"
+
+#: inc/customizer-library/extensions/fonts.php:129
+msgid "All"
+msgstr "Semua"
+
+#: inc/customizer-library/extensions/fonts.php:130
+msgid "Cyrillic"
+msgstr "Cyrillic"
+
+#: inc/customizer-library/extensions/fonts.php:131
+msgid "Cyrillic Extended"
+msgstr "Ekstensi Cyrillic"
+
+#: inc/customizer-library/extensions/fonts.php:132
+msgid "Devanagari"
+msgstr "Devanagari"
+
+#: inc/customizer-library/extensions/fonts.php:133
+msgid "Greek"
+msgstr "Greek"
+
+#: inc/customizer-library/extensions/fonts.php:134
+msgid "Greek Extended"
+msgstr "Ekstensi Greek"
+
+#: inc/customizer-library/extensions/fonts.php:135
+msgid "Khmer"
+msgstr "Khmer"
+
+#: inc/customizer-library/extensions/fonts.php:136
+msgid "Latin"
+msgstr "Latin"
+
+#: inc/customizer-library/extensions/fonts.php:137
+msgid "Latin Extended"
+msgstr "Ekstensi Latin"
+
+#: inc/customizer-library/extensions/fonts.php:138
+msgid "Vietnamese"
+msgstr "Vietnamese"
+
+#: inc/customizer-library/extensions/fonts.php:218
+msgctxt "font style"
+msgid "Serif"
+msgstr "Serif"
+
+#: inc/customizer-library/extensions/fonts.php:222
+msgctxt "font style"
+msgid "Sans Serif"
+msgstr "Sans Serif"
+
+#: inc/customizer-library/extensions/fonts.php:226
+msgctxt "font style"
+msgid "Monospaced"
+msgstr "Monospaced"
+
+#: inc/customizer-library/gmrtheme-customizer.php:102
+msgid "General"
+msgstr "Umum"
+
+#: inc/customizer-library/gmrtheme-customizer.php:109
+msgid "General Layout"
+msgstr "Tata Letak Umum"
+
+#: inc/customizer-library/gmrtheme-customizer.php:115
+msgid "Box"
+msgstr "Kotak"
+
+#: inc/customizer-library/gmrtheme-customizer.php:116
+msgid "Box Small (728px)"
+msgstr "Kotak Kecil (728px)"
+
+#: inc/customizer-library/gmrtheme-customizer.php:117
+#: inc/customizer-library/gmrtheme-customizer.php:940
+#: inc/customizer-library/gmrtheme-customizer.php:1258
+msgid "Fullwidth"
+msgstr "Lebar Penuh"
+
+#: inc/customizer-library/gmrtheme-customizer.php:122
+msgid "Select Layout"
+msgstr "Pilih Tata Letak"
+
+#: inc/customizer-library/gmrtheme-customizer.php:131
+msgid "Disable logo section"
+msgstr "Nonaktifkan bagian logo"
+
+#: inc/customizer-library/gmrtheme-customizer.php:135
+msgid "If you disable logo section, ads side logo will not display."
+msgstr ""
+"Jika anda menonaktifkan bagian logo, iklan sebelah logo tidak akan tampil."
+
+#: inc/customizer-library/gmrtheme-customizer.php:142
+msgid "General Colors"
+msgstr "Warna Umum"
+
+#: inc/customizer-library/gmrtheme-customizer.php:149
+msgid "Base Color Scheme"
+msgstr "Skema Warna Dasar"
+
+#: inc/customizer-library/gmrtheme-customizer.php:157
+msgid "Background Color - Content"
+msgstr "Warna latar - Konten"
+
+#: inc/customizer-library/gmrtheme-customizer.php:166
+msgid "Font Color - Body"
+msgstr "Warna Huruf - Body"
+
+#: inc/customizer-library/gmrtheme-customizer.php:175
+msgid "Link Color - Body"
+msgstr "Warna Tautan - Body"
+
+#: inc/customizer-library/gmrtheme-customizer.php:184
+msgid "Hover Link Color - Body"
+msgstr "Warna Sorot Tautan - Body"
+
+#: inc/customizer-library/gmrtheme-customizer.php:193
+msgid "Color In Chrome Mobile"
+msgstr "Warna Pada Chrome Mobile"
+
+#: inc/customizer-library/gmrtheme-customizer.php:203
+msgid "Background Image"
+msgstr "Gambar latar"
+
+#: inc/customizer-library/gmrtheme-customizer.php:205
+msgid "Background Image only display, if using box layout."
+msgstr "Gambar Latar hanya ditampilkan, jika menggunakan tata letak kotak."
+
+#: inc/customizer-library/gmrtheme-customizer.php:214
+msgid "Typography"
+msgstr "Tata Huruf"
+
+#: inc/customizer-library/gmrtheme-customizer.php:221
+msgid "Heading Font"
+msgstr "Huruf Heading"
+
+#: inc/customizer-library/gmrtheme-customizer.php:230
+msgid "Body Font"
+msgstr "Huruf Body"
+
+#: inc/customizer-library/gmrtheme-customizer.php:247
+msgid "Body font size"
+msgstr "Body font size"
+
+#: inc/customizer-library/gmrtheme-customizer.php:260
+msgid "Body font weight"
+msgstr "Ketebalan font body"
+
+#: inc/customizer-library/gmrtheme-customizer.php:264
+msgid ""
+"Note: some font maybe not display properly, if not display properly try to "
+"change this font weight."
+msgstr ""
+"Catatan: beberapa font yang mungkin tidak ditampilkan dengan benar, jika "
+"tidak tampilkan dengan benar coba untuk mengubah ketebatalan font ini."
+
+#: inc/customizer-library/gmrtheme-customizer.php:270
+msgid "h1 font size"
+msgstr "h1 font size"
+
+#: inc/customizer-library/gmrtheme-customizer.php:283
+msgid "h2 font size"
+msgstr "h2 font size"
+
+#: inc/customizer-library/gmrtheme-customizer.php:296
+msgid "h3 font size"
+msgstr "h3 font size"
+
+#: inc/customizer-library/gmrtheme-customizer.php:309
+msgid "h4 font size"
+msgstr "h4 font size"
+
+#: inc/customizer-library/gmrtheme-customizer.php:322
+msgid "h5 font size"
+msgstr "h5 font size"
+
+#: inc/customizer-library/gmrtheme-customizer.php:335
+msgid "h6 font size"
+msgstr "h6 font size"
+
+#: inc/customizer-library/gmrtheme-customizer.php:354
+msgid "Header"
+msgstr "Header"
+
+#: inc/customizer-library/gmrtheme-customizer.php:362
+msgid "Site Identity"
+msgstr "Identitas Situs"
+
+#: inc/customizer-library/gmrtheme-customizer.php:365
+msgid ""
+"Allow you to add icon, logo, change site-title and tagline to your website."
+msgstr ""
+"Memungkinkan anda untuk menambahkan ikon, logo, mengubah judul situs dan "
+"tagline di situs anda."
+
+#: inc/customizer-library/gmrtheme-customizer.php:370
+msgid "Logo"
+msgstr "Logo"
+
+#: inc/customizer-library/gmrtheme-customizer.php:374
+msgid "If using logo, Site Title and Tagline automatic disappear."
+msgstr ""
+"Jika menggunakan logo, Judul Situs dan Tagline menghilang secara otomatis."
+
+#: inc/customizer-library/gmrtheme-customizer.php:379
+msgid "Logo Margin Top"
+msgstr "Margin Top Logo"
+
+#: inc/customizer-library/gmrtheme-customizer.php:394
+#: inc/customizer-library/gmrtheme-customizer.php:407
+msgid "Header Layout"
+msgstr "Tata Letak Header"
+
+#: inc/customizer-library/gmrtheme-customizer.php:400
+msgid "Logo + Search"
+msgstr "Logo + Pencarian"
+
+#: inc/customizer-library/gmrtheme-customizer.php:401
+msgid "Logo + Ads"
+msgstr "Logo + Iklan"
+
+#: inc/customizer-library/gmrtheme-customizer.php:402
+msgid "Only Logo"
+msgstr "Hanya Logo"
+
+#: inc/customizer-library/gmrtheme-customizer.php:417
+msgid "Header Image"
+msgstr "Gambar Header"
+
+#: inc/customizer-library/gmrtheme-customizer.php:420
+msgid "Allow you customize header sections in home page."
+msgstr "Memungkinkan anda menyesuaikan bagian header halaman beranda."
+
+#: inc/customizer-library/gmrtheme-customizer.php:425
+msgid "Disable header image"
+msgstr "Nonaktifkan gambar header"
+
+#: inc/customizer-library/gmrtheme-customizer.php:430
+msgid ""
+"If you disable header image, header section will replace with header color."
+msgstr ""
+"Jika anda menonaktifkan gambar image, bagian header akan berganti dengan "
+"warna header."
+
+#: inc/customizer-library/gmrtheme-customizer.php:443
+msgid "Background Size"
+msgstr "Background Size"
+
+#: inc/customizer-library/gmrtheme-customizer.php:448
+msgid "The background-size property specifies the size of the header images."
+msgstr "Properti background-size menentukan ukuran gambar header."
+
+#: inc/customizer-library/gmrtheme-customizer.php:448
+msgid "http://www.w3schools.com/cssref/css3_pr_background-size.asp"
+msgstr "http://www.w3schools.com/cssref/css3_pr_background-size.asp"
+
+#: inc/customizer-library/gmrtheme-customizer.php:448
+#: inc/customizer-library/gmrtheme-customizer.php:467
+#: inc/customizer-library/gmrtheme-customizer.php:490
+#: inc/customizer-library/gmrtheme-customizer.php:509
+msgid "Learn more!"
+msgstr "Pelajari Lagi!"
+
+#: inc/customizer-library/gmrtheme-customizer.php:462
+msgid "Background Repeat"
+msgstr "Background Repeat"
+
+#: inc/customizer-library/gmrtheme-customizer.php:467
+msgid ""
+"The background-repeat property sets if/how a header image will be repeated."
+msgstr ""
+"Properti background-repeat diset jika/bagaimana gambar header akan terulang."
+
+#: inc/customizer-library/gmrtheme-customizer.php:467
+msgid "http://www.w3schools.com/cssref/pr_background-repeat.asp"
+msgstr "http://www.w3schools.com/cssref/pr_background-repeat.asp"
+
+#: inc/customizer-library/gmrtheme-customizer.php:485
+msgid "Background Position"
+msgstr "Background Position"
+
+#: inc/customizer-library/gmrtheme-customizer.php:490
+msgid ""
+"The background-position property sets the starting position of a header "
+"image."
+msgstr ""
+"Properti background-position menetapkan posisi awal dari gambar header."
+
+#: inc/customizer-library/gmrtheme-customizer.php:490
+msgid "http://www.w3schools.com/cssref/pr_background-position.asp"
+msgstr "http://www.w3schools.com/cssref/pr_background-position.asp"
+
+#: inc/customizer-library/gmrtheme-customizer.php:504
+msgid "Background Attachment"
+msgstr "Background Attachment"
+
+#: inc/customizer-library/gmrtheme-customizer.php:509
+msgid ""
+"The background-attachment property sets whether a header image is fixed or "
+"scrolls with the rest of the page."
+msgstr ""
+"Properti background-attachment menetapkan apakah gambar header akan tetap "
+"atau menggulung dengan sisa halaman."
+
+#: inc/customizer-library/gmrtheme-customizer.php:509
+msgid "http://www.w3schools.com/cssref/pr_background-attachment.asp"
+msgstr "http://www.w3schools.com/cssref/pr_background-attachment.asp"
+
+#: inc/customizer-library/gmrtheme-customizer.php:516
+msgid "Header Color"
+msgstr "Warna header"
+
+#: inc/customizer-library/gmrtheme-customizer.php:519
+msgid "Allow you customize header color style."
+msgstr "Memungkinkan anda menyesuaikan gaya warna header."
+
+#: inc/customizer-library/gmrtheme-customizer.php:524
+msgid "Background Color - Header"
+msgstr "Warna Latar - Header"
+
+#: inc/customizer-library/gmrtheme-customizer.php:532
+msgid "Site title color"
+msgstr "Warna judul situs"
+
+#: inc/customizer-library/gmrtheme-customizer.php:540
+msgid "Site description color"
+msgstr "Warna deskripsi situs"
+
+#: inc/customizer-library/gmrtheme-customizer.php:548
+msgid "Background Menu"
+msgstr "Warna Latar Menu"
+
+#: inc/customizer-library/gmrtheme-customizer.php:556
+msgid "Background Menu Hover and Active"
+msgstr "Warna Latar Menu Hover dan Aktif"
+
+#: inc/customizer-library/gmrtheme-customizer.php:564
+msgid "Text color - Menu"
+msgstr "Warna teks - Menu"
+
+#: inc/customizer-library/gmrtheme-customizer.php:572
+msgid "Text hover color - Menu"
+msgstr "Warna sorot teks - Menu"
+
+#: inc/customizer-library/gmrtheme-customizer.php:580
+msgid "Background Top Navigation"
+msgstr "Background Navigasi Atas"
+
+#: inc/customizer-library/gmrtheme-customizer.php:588
+msgid "Text color - Top Navigation"
+msgstr "Warna teks - Navigasi Atas"
+
+#: inc/customizer-library/gmrtheme-customizer.php:596
+msgid "Text hover color - Top Navigation"
+msgstr "Warna sorot teks - Navigasi Atas"
+
+#: inc/customizer-library/gmrtheme-customizer.php:605
+msgid "Social & Top Navigation"
+msgstr "Sosial & Navigasi Atas"
+
+#: inc/customizer-library/gmrtheme-customizer.php:608
+msgid "Allow you add social icon and disable top navigation."
+msgstr ""
+"Memungkinkan anda untuk menambahkan ikon sosial, dan menonaktifkan navigasi "
+"atas."
+
+#: inc/customizer-library/gmrtheme-customizer.php:613
+msgid "Disable top navigation"
+msgstr "Nonaktifkan navigasi atas"
+
+#: inc/customizer-library/gmrtheme-customizer.php:621
+msgid "Disable RSS icon in social"
+msgstr "Nonaktifkan ikon RSS di sosial"
+
+#: inc/customizer-library/gmrtheme-customizer.php:629
+msgid "FB Url"
+msgstr "Url FB"
+
+#: inc/customizer-library/gmrtheme-customizer.php:632
+#: inc/customizer-library/gmrtheme-customizer.php:641
+#: inc/customizer-library/gmrtheme-customizer.php:650
+#: inc/customizer-library/gmrtheme-customizer.php:659
+#: inc/customizer-library/gmrtheme-customizer.php:668
+#: inc/customizer-library/gmrtheme-customizer.php:677
+#: inc/customizer-library/gmrtheme-customizer.php:686
+#: inc/customizer-library/gmrtheme-customizer.php:695
+#: inc/customizer-library/gmrtheme-customizer.php:704
+#: inc/customizer-library/gmrtheme-customizer.php:713
+#: inc/customizer-library/gmrtheme-customizer.php:722
+#: inc/customizer-library/gmrtheme-customizer.php:731
+#: inc/customizer-library/gmrtheme-customizer.php:740
+#: inc/customizer-library/gmrtheme-customizer.php:749
+#: inc/customizer-library/gmrtheme-customizer.php:758
+#: inc/customizer-library/gmrtheme-customizer.php:767
+#: inc/customizer-library/gmrtheme-customizer.php:776
+#: inc/customizer-library/gmrtheme-customizer.php:785
+#: inc/customizer-library/gmrtheme-customizer.php:794
+#: inc/customizer-library/gmrtheme-customizer.php:803
+#: inc/customizer-library/gmrtheme-customizer.php:812
+#: inc/customizer-library/gmrtheme-customizer.php:821
+msgid "Fill using http:// or https://"
+msgstr "Isi menggunakan http:// atau https://"
+
+#: inc/customizer-library/gmrtheme-customizer.php:638
+msgid "Twitter Url"
+msgstr "URL Twitter"
+
+#: inc/customizer-library/gmrtheme-customizer.php:647
+msgid "Pinterest Url"
+msgstr "URL Pinterest"
+
+#: inc/customizer-library/gmrtheme-customizer.php:656
+msgid "Tumblr Url"
+msgstr "Url Tumblr"
+
+#: inc/customizer-library/gmrtheme-customizer.php:665
+msgid "Stumbleupon Url"
+msgstr "Url Stumbleupon"
+
+#: inc/customizer-library/gmrtheme-customizer.php:674
+msgid "Wordpress Url"
+msgstr "URL WordPress"
+
+#: inc/customizer-library/gmrtheme-customizer.php:683
+msgid "Instagram Url"
+msgstr "URL Instagram"
+
+#: inc/customizer-library/gmrtheme-customizer.php:692
+msgid "Dribbble Url"
+msgstr "Url Dribbble"
+
+#: inc/customizer-library/gmrtheme-customizer.php:701
+msgid "Vimeo Url"
+msgstr "URL Vimeo"
+
+#: inc/customizer-library/gmrtheme-customizer.php:710
+msgid "Linkedin Url"
+msgstr "URL LinkedIn"
+
+#: inc/customizer-library/gmrtheme-customizer.php:719
+msgid "Deviantart Url"
+msgstr "Url Deviantart"
+
+#: inc/customizer-library/gmrtheme-customizer.php:728
+msgid "Myspace Url"
+msgstr "Url Myspace"
+
+#: inc/customizer-library/gmrtheme-customizer.php:737
+msgid "Skype Url"
+msgstr "Url Skype"
+
+#: inc/customizer-library/gmrtheme-customizer.php:746
+msgid "Youtube Url"
+msgstr "URL YouTube"
+
+#: inc/customizer-library/gmrtheme-customizer.php:755
+msgid "Picassa Url"
+msgstr "Url Picassa"
+
+#: inc/customizer-library/gmrtheme-customizer.php:764
+msgid "Flickr Url"
+msgstr "Url Flickr"
+
+#: inc/customizer-library/gmrtheme-customizer.php:773
+msgid "Blogger Url"
+msgstr "Url Blogger"
+
+#: inc/customizer-library/gmrtheme-customizer.php:782
+msgid "Spotify Url"
+msgstr "Url Spotify"
+
+#: inc/customizer-library/gmrtheme-customizer.php:791
+msgid "Delicious Url"
+msgstr "Url Delicious"
+
+#: inc/customizer-library/gmrtheme-customizer.php:800
+msgid "Tiktok Url"
+msgstr "URL Tiktok"
+
+#: inc/customizer-library/gmrtheme-customizer.php:809
+msgid "Telegram Url"
+msgstr "URL Telegram"
+
+#: inc/customizer-library/gmrtheme-customizer.php:818
+msgid "Soundcloud Url"
+msgstr "Url Soundcloud"
+
+#: inc/customizer-library/gmrtheme-customizer.php:828
+#: inc/customizer-library/gmrtheme-customizer.php:855
+msgid "Primary Menu Style"
+msgstr "Gaya Menu Primary"
+
+#: inc/customizer-library/gmrtheme-customizer.php:831
+msgid "Allow you customize menu style."
+msgstr "Memungkinkan anda menyesuaikan gaya menu."
+
+#: inc/customizer-library/gmrtheme-customizer.php:835
+#: template-parts/content.php:187
+msgid "Sticky"
+msgstr "Stiki"
+
+#: inc/customizer-library/gmrtheme-customizer.php:836
+msgid "Static"
+msgstr "Statik"
+
+#: inc/customizer-library/gmrtheme-customizer.php:841
+msgid "Sticky Menu"
+msgstr "Menu Stiki"
+
+#: inc/customizer-library/gmrtheme-customizer.php:849
+msgid "Box Menu"
+msgstr "Menu Kotak"
+
+#: inc/customizer-library/gmrtheme-customizer.php:850
+msgid "Fluid Menu"
+msgstr "Menu Fluid"
+
+#: inc/customizer-library/gmrtheme-customizer.php:864
+msgid "Remove search button in Primary Menu"
+msgstr "Hapus Tombol Keranjang dari menu"
+
+#: inc/customizer-library/gmrtheme-customizer.php:873
+msgid "Slider Options"
+msgstr "Pengaturan Slider"
+
+#: inc/customizer-library/gmrtheme-customizer.php:876
+msgid "Allow you add slider shortcode, and display it in front page."
+msgstr ""
+"Memungkinkan anda untuk menambahkan shortcode slider, dan menampilkannya "
+"dalam halaman depan."
+
+#: inc/customizer-library/gmrtheme-customizer.php:881
+msgid "Slider Shortcode."
+msgstr "Shortcode slider."
+
+#: inc/customizer-library/gmrtheme-customizer.php:885
+msgid "Please insert slider shortcode here."
+msgstr "Silahkan masukkan shortcode slider disini."
+
+#: inc/customizer-library/gmrtheme-customizer.php:897
+msgid "Blog"
+msgstr "Blog"
+
+#: inc/customizer-library/gmrtheme-customizer.php:904
+#: inc/customizer-library/gmrtheme-customizer.php:917
+msgid "Blog Layout"
+msgstr "Tata Letak Blog"
+
+#: inc/customizer-library/gmrtheme-customizer.php:910
+msgid "Big thumnail with gallery"
+msgstr "Gambar besar dengan galeri"
+
+#: inc/customizer-library/gmrtheme-customizer.php:911
+msgid "Small thumbnail"
+msgstr "Standar dengan gambar kecil"
+
+#: inc/customizer-library/gmrtheme-customizer.php:912
+msgid "Grid"
+msgstr "Grid"
+
+#: inc/customizer-library/gmrtheme-customizer.php:926
+msgid "Number Gallery"
+msgstr "Jumlah Galeri"
+
+#: inc/customizer-library/gmrtheme-customizer.php:930
+msgid ""
+"Number gallery if using big thumbnail in gallery layout. Default 4 and "
+"maximal 20 images."
+msgstr ""
+"Jumlah galeri jika anda menggunakan thumbnail besar pada layout galeri. "
+"Default 4 dan maksimal 20 gambar."
+
+#: inc/customizer-library/gmrtheme-customizer.php:945
+msgid "Blog Sidebar"
+msgstr "Sidebar Blog"
+
+#: inc/customizer-library/gmrtheme-customizer.php:954
+msgid "Single Sidebar"
+msgstr "Sidebar Single"
+
+#: inc/customizer-library/gmrtheme-customizer.php:958
+msgid ""
+"Default layout sidebar for single, if you want disable sidebar only in "
+"special post or page, you can use post options."
+msgstr ""
+"Tata letak standar untuk sidebar single, jika anda ingin menonaktifkan "
+"sidebar hanya di pos atau halaman khusus, anda dapat menggunakan pengaturan "
+"posting."
+
+#: inc/customizer-library/gmrtheme-customizer.php:964
+msgid "Page Sidebar"
+msgstr "Sidebar Halaman"
+
+#: inc/customizer-library/gmrtheme-customizer.php:968
+msgid ""
+"Default layout sidebar for page, if you want disable sidebar only in special "
+"post or page, you can use post options."
+msgstr ""
+"Tata letak standar untuk sidebar single, jika anda ingin menonaktifkan "
+"sidebar hanya di pos atau halaman khusus, anda dapat menggunakan pengaturan "
+"posting."
+
+#: inc/customizer-library/gmrtheme-customizer.php:975
+#: inc/customizer-library/gmrtheme-customizer.php:1027
+msgid "Blog Content"
+msgstr "Konten Blog"
+
+#: inc/customizer-library/gmrtheme-customizer.php:982
+msgid "Disable Blog Thumbnail"
+msgstr "Nonaktifkan gambar fitur blog"
+
+#: inc/customizer-library/gmrtheme-customizer.php:990
+msgid "Disable Single Thumbnail"
+msgstr "Nonaktifkan gambar fitur di single"
+
+#: inc/customizer-library/gmrtheme-customizer.php:998
+msgid "Disable Page Navigation Posts In Archives."
+msgstr "Nonaktifkan Navigasi Halaman Post Di Arsip."
+
+#: inc/customizer-library/gmrtheme-customizer.php:1006
+msgid "Disable meta data in single"
+msgstr "Nonaktifkan meta data di single"
+
+#: inc/customizer-library/gmrtheme-customizer.php:1014
+msgid "Disable Excerpt In Archives"
+msgstr "Nonaktifkan kutipan di arsip"
+
+#: inc/customizer-library/gmrtheme-customizer.php:1021
+msgid "Excerpt"
+msgstr "Kutipan"
+
+#: inc/customizer-library/gmrtheme-customizer.php:1022
+msgid "Full Content"
+msgstr "Konten Penuh"
+
+#: inc/customizer-library/gmrtheme-customizer.php:1036
+msgid "Excerpt length"
+msgstr "Panjang kutipan"
+
+#: inc/customizer-library/gmrtheme-customizer.php:1040
+msgid "If you choose excerpt, you can change excerpt lenght (default is 30)."
+msgstr ""
+"Jika anda memilih kutipan, anda dapat mengubah panjang kutipan (standar "
+"adalah 30)."
+
+#: inc/customizer-library/gmrtheme-customizer.php:1050
+msgid "Read more text"
+msgstr "Teks Baca Selengkapnya"
+
+#: inc/customizer-library/gmrtheme-customizer.php:1053
+msgid ""
+"Add some text here to replace the default [...]. It will automatically be "
+"linked to your article."
+msgstr ""
+"Tambahkan beberapa teks di sini untuk menggantikan standar[...]. Ini secara "
+"otomatis akan terhubung ke artikel anda."
+
+#: inc/customizer-library/gmrtheme-customizer.php:1065
+msgid "Footer"
+msgstr "Footer"
+
+#: inc/customizer-library/gmrtheme-customizer.php:1072
+#: inc/customizer-library/gmrtheme-customizer.php:1087
+msgid "Widgets Footer"
+msgstr "Widget Footer"
+
+#: inc/customizer-library/gmrtheme-customizer.php:1075
+msgid "Footer widget columns."
+msgstr "Kolom widget footer."
+
+#: inc/customizer-library/gmrtheme-customizer.php:1079
+msgid "1 Column"
+msgstr "1 Kolom"
+
+#: inc/customizer-library/gmrtheme-customizer.php:1080
+#: inc/customizer-library/gmrtheme-customizer.php:1240
+msgid "2 Columns"
+msgstr "2 Kolom"
+
+#: inc/customizer-library/gmrtheme-customizer.php:1081
+#: inc/customizer-library/gmrtheme-customizer.php:1241
+msgid "3 Columns"
+msgstr "3 Kolom"
+
+#: inc/customizer-library/gmrtheme-customizer.php:1082
+#: inc/customizer-library/gmrtheme-customizer.php:1242
+msgid "4 Columns"
+msgstr "4 Kolom"
+
+#: inc/customizer-library/gmrtheme-customizer.php:1097
+msgid "Copyright"
+msgstr "Hak Cipta"
+
+#: inc/customizer-library/gmrtheme-customizer.php:1110
+msgid "Footer Copyright."
+msgstr "Footer Hak Cipta."
+
+#: inc/customizer-library/gmrtheme-customizer.php:1114
+msgid "Display your own copyright text in footer."
+msgstr "Menampilkan teks hak cipta anda sendiri di footer."
+
+#: inc/customizer-library/gmrtheme-customizer.php:1120
+#: inc/customizer-library/gmrtheme-customizer.php:1126
+#: inc/customizer-library/gmrtheme-customizer.php:1137
+#: inc/customizer-library/gmrtheme-customizer.php:1143
+msgid "Insert License Key"
+msgstr "Masukkan Kunci Lisensi"
+
+#: inc/customizer-library/gmrtheme-customizer.php:1130
+#: inc/customizer-library/gmrtheme-customizer.php:1147
+msgid ""
+"<a href=\"plugins.php?page=galepro-license\" style=\"font-weight: 700;"
+"\">Please insert your own license key here</a>.<br /><br /> If you bought "
+"from kentooz, you can get license key in your memberarea. <a href=\"http://"
+"member.kentooz.com/softsale/license\" target=\"_blank\">http://member."
+"kentooz.com/softsale/license</a>"
+msgstr ""
+"<a href=\"plugins.php?page=galepro-license\" style=\"font-weight: 700;"
+"\">Harap masukkan kunci lisensi Anda sendiri di sini</a>.<br /><br /> Jika "
+"anda membeli dari kentooz, anda bisa mendapatkan kunci lisensi di area "
+"keanggotaan anda.<a href=\"http://member.kentooz.com/softsale/license\" "
+"target=\"_blank\">http://member.kentooz.com/softsale/license</a>"
+
+#: inc/customizer-library/gmrtheme-customizer.php:1154
+msgid "Footer Color"
+msgstr "Warna Footer"
+
+#: inc/customizer-library/gmrtheme-customizer.php:1157
+msgid "Allow you customize footer color style."
+msgstr "Memungkinkan anda menyesuaikan gaya warna footer."
+
+#: inc/customizer-library/gmrtheme-customizer.php:1162
+msgid "Background Color - Footer"
+msgstr "Warna Latar - Footer"
+
+#: inc/customizer-library/gmrtheme-customizer.php:1170
+msgid "Font Color - Footer"
+msgstr "Warna Huruf - Footer"
+
+#: inc/customizer-library/gmrtheme-customizer.php:1178
+msgid "Link Color - Footer"
+msgstr "Warna Tautan - Footer"
+
+#: inc/customizer-library/gmrtheme-customizer.php:1186
+msgid "Hover Link Color - Footer"
+msgstr "Warna Sorot Tautan - Footer"
+
+#: inc/customizer-library/gmrtheme-customizer.php:1194
+msgid "Background Color - Copyright"
+msgstr "War"
+
+#: inc/customizer-library/gmrtheme-customizer.php:1202
+msgid "Font Color - Copyright"
+msgstr "Warna Huruf - Hak Cipta"
+
+#: inc/customizer-library/gmrtheme-customizer.php:1210
+msgid "Link Color - Copyright"
+msgstr "Warna Tautan - Copyright"
+
+#: inc/customizer-library/gmrtheme-customizer.php:1218
+msgid "Hover Link Color - Copyright"
+msgstr "Warna Sorot Tautan - Hak Cipta"
+
+#: inc/customizer-library/gmrtheme-customizer.php:1235
+msgid "Woocommerce"
+msgstr "Woocommerce"
+
+#: inc/customizer-library/gmrtheme-customizer.php:1243
+msgid "5 Columns"
+msgstr "5 Kolom"
+
+#: inc/customizer-library/gmrtheme-customizer.php:1244
+msgid "6 Columns"
+msgstr "6 Kolom"
+
+#: inc/customizer-library/gmrtheme-customizer.php:1249
+msgid "Product Columns"
+msgstr "Kolom Produk"
+
+#: inc/customizer-library/gmrtheme-customizer.php:1263
+msgid "Woocommerce Sidebar"
+msgstr "Sidebar Woocommerce"
+
+#: inc/customizer-library/gmrtheme-customizer.php:1271
+msgid "6 Products"
+msgstr "6 Produk"
+
+#: inc/customizer-library/gmrtheme-customizer.php:1272
+msgid "7 Products"
+msgstr "7 Produk"
+
+#: inc/customizer-library/gmrtheme-customizer.php:1273
+msgid "8 Products"
+msgstr "8 Produk"
+
+#: inc/customizer-library/gmrtheme-customizer.php:1274
+msgid "9 Products"
+msgstr "9 Produk"
+
+#: inc/customizer-library/gmrtheme-customizer.php:1275
+msgid "10 Products"
+msgstr "10 Produk"
+
+#: inc/customizer-library/gmrtheme-customizer.php:1276
+msgid "11 Products"
+msgstr "11 Produk"
+
+#: inc/customizer-library/gmrtheme-customizer.php:1277
+msgid "12 Products"
+msgstr "12 Produk"
+
+#: inc/customizer-library/gmrtheme-customizer.php:1278
+msgid "13 Products"
+msgstr "13 Produk"
+
+#: inc/customizer-library/gmrtheme-customizer.php:1279
+msgid "14 Products"
+msgstr "14 Produk"
+
+#: inc/customizer-library/gmrtheme-customizer.php:1280
+msgid "15 Products"
+msgstr "15 Produk"
+
+#: inc/customizer-library/gmrtheme-customizer.php:1281
+msgid "16 Products"
+msgstr "16 Produk"
+
+#: inc/customizer-library/gmrtheme-customizer.php:1282
+msgid "17 Products"
+msgstr "17 Produk"
+
+#: inc/customizer-library/gmrtheme-customizer.php:1283
+msgid "18 Products"
+msgstr "18 Produk"
+
+#: inc/customizer-library/gmrtheme-customizer.php:1284
+msgid "19 Products"
+msgstr "19 Produk"
+
+#: inc/customizer-library/gmrtheme-customizer.php:1285
+msgid "20 Products"
+msgstr "20 Produk"
+
+#: inc/customizer-library/gmrtheme-customizer.php:1286
+msgid "21 Products"
+msgstr "21 Produk"
+
+#: inc/customizer-library/gmrtheme-customizer.php:1287
+msgid "22 Products"
+msgstr "22 Produk"
+
+#: inc/customizer-library/gmrtheme-customizer.php:1288
+msgid "23 Products"
+msgstr "23 Produk"
+
+#: inc/customizer-library/gmrtheme-customizer.php:1289
+msgid "24 Products"
+msgstr "24 Produk"
+
+#: inc/customizer-library/gmrtheme-customizer.php:1290
+msgid "25 Products"
+msgstr "25 Produk"
+
+#: inc/customizer-library/gmrtheme-customizer.php:1291
+msgid "26 Products"
+msgstr "26 Produk"
+
+#: inc/customizer-library/gmrtheme-customizer.php:1292
+msgid "27 Products"
+msgstr "27 Produk"
+
+#: inc/customizer-library/gmrtheme-customizer.php:1293
+msgid "28 Products"
+msgstr "28 Produk"
+
+#: inc/customizer-library/gmrtheme-customizer.php:1294
+msgid "29 Products"
+msgstr "29 Produk"
+
+#: inc/customizer-library/gmrtheme-customizer.php:1295
+msgid "30 Products"
+msgstr "30 Produk"
+
+#: inc/customizer-library/gmrtheme-customizer.php:1300
+msgid "Woocommerce Product Per Page"
+msgstr "Produk Woocommerce Tiap Halaman"
+
+#: inc/customizer-library/gmrtheme-customizer.php:1309
+msgid "Remove Cart button from menu"
+msgstr "Hapus Tombol Keranjang dari menu"
+
+#: inc/dashboard.php:25
+msgid "Kentooz Theme"
+msgstr "Kentooz Theme"
+
+#: inc/extras.php:134
+msgid "Gravatar Image"
+msgstr "Gambar Gravatar"
+
+#: inc/extras.php:134
+msgid "Gravatar"
+msgstr "Gravatar"
+
+#: inc/importer.php:33
+#, fuzzy
+#| msgid "Import demo from http://demo.idtheme.com/galepro/."
+msgid "Import demo from https://demo.idtheme.com/galepro/."
+msgstr "Import demo dari http://demo.idtheme.com/galepro/."
+
+#: inc/importer.php:41
+#, fuzzy
+#| msgid "Import demo from http://demo.idtheme.com/galepro-galeri/."
+msgid "Import demo from https://demo.idtheme.com/galepro-galeri/."
+msgstr "Import demo dari http://demo.idtheme.com/galepro-galeri/."
+
+#: inc/importer.php:49
+#, fuzzy
+#| msgid "Import demo from http://demo.idtheme.com/galepro-grid/."
+msgid "Import demo from https://demo.idtheme.com/galepro-grid/."
+msgstr "Import demo dari http://demo.idtheme.com/galepro-grid/."
+
+#: inc/template-tags.php:42
+#, php-format
+msgid "by %s"
+msgstr "oleh %s"
+
+#: inc/template-tags.php:43 template-parts/content.php:71
+#: template-parts/content.php:84 template-parts/content.php:112
+#: template-parts/content.php:137
+msgid "Permalink to: "
+msgstr "Permalink ke: "
+
+#: inc/template-tags.php:62
+msgid "View"
+msgstr "Dilihat"
+
+#: inc/template-tags.php:83 inc/template-tags.php:90
+msgid ", "
+msgstr ", "
+
+#: inc/template-tags.php:86
+#, php-format
+msgid "Posted in %1$s"
+msgstr "Posting pada %1$s"
+
+#: inc/template-tags.php:93
+#, php-format
+msgid "Tagged %1$s"
+msgstr "Ditag %1$s"
+
+#: inc/template-tags.php:100
+#, php-format
+msgid "Leave a Comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr "Tinggalkan Komentar <span class=\"screen-reader-text\"> pada %s</span>"
+
+#: inc/template-tags.php:107
+#, php-format
+msgid "Edit %s"
+msgstr "Ubah %s"
+
+#: inc/template-tags.php:172
+msgid "Prev"
+msgstr "Sebelumnya"
+
+#: inc/template-tags.php:173
+msgid "Next"
+msgstr "Berikutnya"
+
+#: inc/template-tags.php:295 template-parts/content.php:176
+msgid "Pages:"
+msgstr "Halaman:"
+
+#: page.php:53 single.php:45
+msgid "Add Comment"
+msgstr "Tambahkan Komentar"
+
+#: search.php:36
+msgid "Search Results For: "
+msgstr "Hasil pencarian: "
+
+#: template-parts/content-none.php:28
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+"Siap untuk mempublikasikan posting pertama Anda? <a href=\"%1$s\">Mulai "
+"disini</a>."
+
+#: template-parts/content-none.php:32
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+"Maaf, tetapi tidak ada yang cocok dengan istilah pencarian Anda. Silakan "
+"coba lagi dengan beberapa kata kunci yang berbeda."
+
+#: template-parts/content-none.php:39
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+"Sepertinya kami tidak dapat menemukan yang Anda cari. Mungkin pencarian "
+"dapat membantu."
+
+#: template-parts/content-page.php:33
+msgid "Edit"
+msgstr "Ubah"
+
+#: template-parts/content-single.php:67
+msgid "<span>Previous post</span> %title"
+msgstr "<span>Pos sebelumnya</span> %title"
+
+#: template-parts/content-single.php:68
+msgid "<span>Next post</span> %title"
+msgstr "<span>Pos berikutnya</span> %title"
+
+#~ msgid "Theme"
+#~ msgstr "Tema"
+
+#~ msgid "https://www.idtheme.com/galepro/"
+#~ msgstr "https://www.idtheme.com/galepro/"
+
+#~ msgid "Galepro"
+#~ msgstr "Galepro"
+
+#~ msgid "Design by"
+#~ msgstr "Desain oleh"
+
+#~ msgid "Gian MR"
+#~ msgstr "Gian MR"
+
+#~ msgid "Google Plus"
+#~ msgstr "Google Plus"
+
+#~ msgid "Menus"
+#~ msgstr "Menu"
+
+#~ msgid "Menu"
+#~ msgstr "Menu"
+
+#~ msgid "Google Plus Url"
+#~ msgstr "URL Google+"
+
+#~ msgid "Close Menu"
+#~ msgstr "Tutup Menu"
+
+#~ msgid "%s"
+#~ msgstr "%s"
+
+#~ msgid ""
+#~ "Theme <a href=\"https://www.idtheme.com/galepro/\">Galepro</a> Design by "
+#~ "<a href=\"http://www.gianmr.com/\">Gian MR</a>"
+#~ msgstr ""
+#~ "Tema <a href=\"https://www.idtheme.com/galepro/\">Galepro</a> Didesain "
+#~ "oleh <a href=\"http://www.gianmr.com/\">Gian MR</a>"
+
+#~ msgid "%d"
+#~ msgid_plural "%d"
+#~ msgstr[0] "%d"
+
+#~ msgid "%1$s installed and activated successfully."
+#~ msgstr "%1$s berhasil dipasang dan diaktifkan."
+
+#~ msgid "Show Details"
+#~ msgstr "Tampilkan Detail"
+
+#~ msgid "Hide Details"
+#~ msgstr "Sembunyikan Detail"
+
+#~ msgid "%1$s installed successfully."
+#~ msgstr "%1$s sukses di install."
+
+#~ msgid "Import demo from http://demo.idtheme.com/superfast-masonry/."
+#~ msgstr "Import demo dari http://demo.idtheme.com/superfast-masonry/."
+
+#~ msgid "Import demo from http://demo.idtheme.com/superfast-woo/."
+#~ msgstr "Import demo dari http://demo.idtheme.com/superfast-woo/."
+
+#~ msgid "Default"
+#~ msgstr "Standar"
+
+#~ msgid "Image for "
+#~ msgstr "Gambar untuk "
+
+#~ msgid "Gallery for "
+#~ msgstr "Galeri untuk "
+
+#~ msgid "Disable the header for this page?"
+#~ msgstr "Nonaktifkan header pada halaman ini?"
+
+#~ msgid "Disable the section for this page?"
+#~ msgstr "Nonaktifkan bagian judul pada halaman ini?"
+
+#~ msgid "Disable the footer for this page?"
+#~ msgstr "Nonaktifkan footer pada halaman ini?"
+
+#~ msgid "%1$s"
+#~ msgstr "%1$s"
+
+#~ msgid "Remove search button"
+#~ msgstr "Hapus tombol pencarian"
+
+#~ msgid "Masonry"
+#~ msgstr "Masonry"
+
+#~ msgid "Fullwidth Small"
+#~ msgstr "Lebar Penuh Kecil"
+
+#~ msgid "Posted on %s"
+#~ msgstr "Diposting pada %s"
+
+#~ msgid "Header Text"
+#~ msgstr "Teks Header"
+
+#~ msgid "Allow you customize text in header sections in home page."
+#~ msgstr "Memungkinkan anda menyesuaikan teks di bagian header situs."
+
+#~ msgid "Header Section Text"
+#~ msgstr "Teks Bagian Header"
+
+#~ msgid ""
+#~ "Allow you to add text to header sections, leave blank if you want using "
+#~ "default page title."
+#~ msgstr ""
+#~ "Memungkinkan anda untuk menambahkan teks ke bagian header, biarkan kosong "
+#~ "jika anda ingin menggunakan judul halaman."
+
+#~ msgid "Header Section Sub Text"
+#~ msgstr "Sub teks bagian header"
+
+#~ msgid "Allow you to add sub text to header sections"
+#~ msgstr "Memungkinkan anda untuk menambahkan sub teks ke bagian header"
+
+#~ msgid "Button Title Left Homepage"
+#~ msgstr "Judul tombol kiri halaman beranda"
+
+#~ msgid "Button URL Left Homepage"
+#~ msgstr "URL tombol kiri halaman beranda"
+
+#~ msgid "Button Title Right Homepage"
+#~ msgstr "Judul tombol kanan halaman beranda"
+
+#~ msgid "Button URL Right Homepage"
+#~ msgstr "URL tombol kanan halaman beranda"
+
+#~ msgid "Background Color - Header Bar"
+#~ msgstr "Warna Latar - Bar Header"
+
+#~ msgid "Font Color - Header Bar"
+#~ msgstr "Warna Huruf - Bar Header"
+
+#~ msgid "Link Color - Header Bar"
+#~ msgstr "Warna Tautan - Bar Header"
+
+#~ msgid "Hover Link Color - Header Bar"
+#~ msgstr "Warna Sorot Tautan - Bar Header"
+
+#~ msgid "Background Color - Page Section"
+#~ msgstr "Warna Latar - Bagian Judul Halaman"
+
+#~ msgid "Font Color - Page Section"
+#~ msgstr "Warna Huruf - Bagian Judul Halaman"
+
+#~ msgid "Link Color - Page Section"
+#~ msgstr "Warna Tautan - Bagian Judul Halaman"
+
+#~ msgid "Hover Link Color - Page Section"
+#~ msgstr "Warna Sorot Tautan - Bagian Judul Halaman"
+
+#~ msgid "Header Bar"
+#~ msgstr "Bar Header"
+
+#~ msgid "Add header bar, contact info, text promotion."
+#~ msgstr "Tambahkan bar header, info kontak, atau teks promosi."
+
+#~ msgid "Enable Header Bar"
+#~ msgstr "Aktifkan Bar Header"
+
+#~ msgid "Activated fluid header bar"
+#~ msgstr "Aktifkan bar header fluid"
+
+#~ msgid "Text"
+#~ msgstr "Teks"
+
+#~ msgid "Add text, before contact."
+#~ msgstr "Tambahkan teks, sebelum kontak."
+
+#~ msgid "Phone Number"
+#~ msgstr "Nomor Telepon"
+
+#~ msgid "Call To Action"
+#~ msgstr "Call To Action"
+
+#~ msgid "Add text to footer call to action."
+#~ msgstr "Tambahkan teks pada call to action footer."
+
+#~ msgid "URL"
+#~ msgstr "URL"
+
+#~ msgid "Add url to footer call to action."
+#~ msgstr "Tambahkan url pada call to action footer."
+
+#~ msgid "Box wide"
+#~ msgstr "Kotak Lebar"
+
+#~ msgid "Preloader"
+#~ msgstr "Preloader"
+
+#~ msgid "Enable Preloader"
+#~ msgstr "Aktifkan Preloader"
+
+#~ msgid "Image Preloader (GIF)"
+#~ msgstr "Gambar Preloader (GIF)"
+
+#~ msgid "Please upload image preloader here, only GIF image."
+#~ msgstr "Silahkan unggah gambar preloader disini, hanya gambar GIF."
+
+#~ msgid "Activated fluid menu"
+#~ msgstr "Aktifkan menu fluid"
+
+#~ msgid "Box border bottom"
+#~ msgstr "Kotak border bottom"
+
+#~ msgid "Box shadow"
+#~ msgstr "Kotak dengan bayangan"
+
+#~ msgid "No box"
+#~ msgstr "Tidak ada kotak"
+
+#~ msgid "Box Style"
+#~ msgstr "Gaya Kotak"
+
+#~ msgid "Box style for blog, single and archive box."
+#~ msgstr "Gaya Kotak pada blog, single dan arsip."
+
+#~ msgid "Font Color - Call To Action"
+#~ msgstr "Warna Huruf - Call To Action"
+
+#~ msgid "Background Color - Call To Action"
+#~ msgstr "Warna Latar - Call To Action"
+
+#~ msgid "Hover Background Color - Call To Action"
+#~ msgstr "Warna Sorot Latar - Call To Action"
+
+#~ msgid "Link Color - Call To Action"
+#~ msgstr "Warna Tautan - Call To Action"
+
+#~ msgid "Hover Link Color - Call To Action"
+#~ msgstr "Warna Sorot Tautan - Call To Action"
+
+#~ msgid "Have a questions?"
+#~ msgstr "Punya pertanyaan?"
+
+#~ msgid "08131112233"
+#~ msgstr "08131112233"
+
+#~ msgid "mymail@domain.com"
+#~ msgstr "mymail@domain.com"
+
+#~ msgid "Starting at: "
+#~ msgstr "Mulai dari: "
+
+#~ msgid "\"404 ! Page not found !\""
+#~ msgstr "\"404 ! Halaman tidak ditemukan !\""
+
+#~ msgid "Older Comments"
+#~ msgstr "Komentar Lama"
+
+#~ msgid "Newer Comments"
+#~ msgstr "Komentar Terbaru"
+
+#~ msgid "General Options"
+#~ msgstr "Pengaturan Umum"

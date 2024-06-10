@@ -1,0 +1,1566 @@
+# Translation of
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Galepro 2.1.2\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/theme/salespro\n"
+"POT-Creation-Date: 2023-03-30 02:55+0700\n"
+"PO-Revision-Date: 2016-08-06 16:51+0700\n"
+"Last-Translator: Gian Mokhammad R <g14nblog@gmail.com>\n"
+"Language-Team: Gian Mokhammad Ramadhan <g14nblog@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0\n"
+"X-Generator: Poedit 3.2.2\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_x:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;_ex:1,2c;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_c;_nc:4c,1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: 404.php:34
+msgid "Error 404"
+msgstr ""
+
+#: 404.php:35 template-parts/content-none.php:20
+msgid "Nothing Found"
+msgstr ""
+
+#: 404.php:39
+msgid "It looks like nothing was found at this location. Maybe try one of the links below or a search?"
+msgstr ""
+
+#: comments.php:43
+#, php-format
+msgid "%1$s comment"
+msgid_plural "%1$s comments"
+msgstr[0] ""
+
+#: comments.php:63
+msgid "Comment navigation"
+msgstr ""
+
+#: comments.php:86
+msgid "Comments are closed."
+msgstr ""
+
+#: comments.php:98
+msgid "Name"
+msgstr ""
+
+#: comments.php:103
+msgid "Email"
+msgstr ""
+
+#: comments.php:108
+msgid "Website"
+msgstr ""
+
+#: comments.php:113 comments.php:114
+msgctxt "noun"
+msgid "Comment"
+msgstr ""
+
+#: footer.php:85
+msgid "Non AMP Version"
+msgstr ""
+
+#: footer.php:93
+msgid "https://wordpress.org/"
+msgstr ""
+
+#: footer.php:93
+#, php-format
+msgid "Proudly powered by %s"
+msgstr ""
+
+#: footer.php:95
+msgid "http://www.gianmr.com/"
+msgstr ""
+
+#: footer.php:95
+#, php-format
+msgid "Theme: %s"
+msgstr ""
+
+#: footer.php:144 inc/template-tags.php:204 inc/template-tags.php:207
+#: inc/template-tags.php:428
+msgid "Search"
+msgstr ""
+
+#: functions.php:74
+msgid "Primary"
+msgstr ""
+
+#: functions.php:75
+msgid "Secondary"
+msgstr ""
+
+#: functions.php:139
+msgid "expand"
+msgstr ""
+
+#: functions.php:140
+msgid "collapse"
+msgstr ""
+
+#: functions.php:208 inc/customizer-library/gmrtheme-customizer.php:939
+#: inc/customizer-library/gmrtheme-customizer.php:1257
+msgid "Sidebar"
+msgstr ""
+
+#: functions.php:210
+msgid "Add widgets here."
+msgstr ""
+
+#: functions.php:224
+msgid "Footer "
+msgstr ""
+
+#: header.php:39
+msgid "Skip to content"
+msgstr ""
+
+#: header.php:99
+msgid "Facebook"
+msgstr ""
+
+#: header.php:103
+msgid "Twitter"
+msgstr ""
+
+#: header.php:107
+msgid "Pinterest"
+msgstr ""
+
+#: header.php:111
+msgid "Tumblr"
+msgstr ""
+
+#: header.php:115
+msgid "Stumbleupon"
+msgstr ""
+
+#: header.php:119
+msgid "WordPress"
+msgstr ""
+
+#: header.php:123
+msgid "Instagram"
+msgstr ""
+
+#: header.php:127
+msgid "Dribbble"
+msgstr ""
+
+#: header.php:131
+msgid "Vimeo"
+msgstr ""
+
+#: header.php:135
+msgid "Linkedin"
+msgstr ""
+
+#: header.php:139
+msgid "Deviantart"
+msgstr ""
+
+#: header.php:143
+msgid "Myspace"
+msgstr ""
+
+#: header.php:147
+msgid "Skype"
+msgstr ""
+
+#: header.php:151
+msgid "Youtube"
+msgstr ""
+
+#: header.php:155
+msgid "Picassa"
+msgstr ""
+
+#: header.php:159
+msgid "Flickr"
+msgstr ""
+
+#: header.php:163
+msgid "Blogger"
+msgstr ""
+
+#: header.php:167
+msgid "Spotify"
+msgstr ""
+
+#: header.php:171
+msgid "Delicious"
+msgstr ""
+
+#: header.php:175
+msgid "Tiktok"
+msgstr ""
+
+#: header.php:179
+msgid "Telegram"
+msgstr ""
+
+#: header.php:183
+msgid "Soundcloud"
+msgstr ""
+
+#: header.php:187
+msgid "RSS"
+msgstr ""
+
+#: header.php:236 header.php:252
+msgid "MENU"
+msgstr ""
+
+#: inc/class-gmr-metabox-settings.php:38
+msgid "Theme Settings"
+msgstr ""
+
+#: inc/class-gmr-metabox-settings.php:106
+msgid "Disable the sidebar for this page?"
+msgstr ""
+
+#: inc/class-gmr-metabox-settings.php:108
+msgid "Page template builder is fullwidth so you no need check disable sidebar."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:327
+msgid "Install Required Plugins"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:328
+msgid "Install Plugins"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:330
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:332
+#, php-format
+msgid "Updating Plugin: %s"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:333
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:336
+#, php-format
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] ""
+
+#: inc/class-tgm-plugin-activation.php:342
+#, php-format
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] ""
+
+#: inc/class-tgm-plugin-activation.php:348
+#, php-format
+msgid "The following plugin needs to be updated to its latest version to ensure maximum compatibility with this theme: %1$s."
+msgid_plural "The following plugins need to be updated to their latest version to ensure maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+
+#: inc/class-tgm-plugin-activation.php:354
+#, php-format
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] ""
+
+#: inc/class-tgm-plugin-activation.php:360
+#, php-format
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] ""
+
+#: inc/class-tgm-plugin-activation.php:366
+#, php-format
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] ""
+
+#: inc/class-tgm-plugin-activation.php:371
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+
+#: inc/class-tgm-plugin-activation.php:376
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] ""
+
+#: inc/class-tgm-plugin-activation.php:381
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] ""
+
+#: inc/class-tgm-plugin-activation.php:385
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:386
+#: inc/class-tgm-plugin-activation.php:827
+#: inc/class-tgm-plugin-activation.php:2533
+#: inc/class-tgm-plugin-activation.php:3580
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:387
+#: inc/class-tgm-plugin-activation.php:3159
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:388
+msgid "Following plugin was activated successfully:"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:390
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:392
+#, php-format
+msgid "Plugin not activated. A higher version of %s is needed for this theme. Please update the plugin."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:394
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:395
+msgid "Dismiss this notice"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:396
+msgid "There are one or more required or recommended plugins to install, update or activate."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:397
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:522
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:523
+msgid "Update Required"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:934
+msgid "The remote plugin package does not contain a folder with the desired slug and renaming did not work."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:934
+#: inc/class-tgm-plugin-activation.php:937
+msgid "Please contact the plugin provider and ask them to package their plugin according to the WordPress guidelines."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:937
+msgid "The remote plugin package consists of more than one file, but the files are not packaged in a folder."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:1121
+#: inc/class-tgm-plugin-activation.php:2948
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:1982
+#, php-format
+msgid "TGMPA v%s"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2273
+msgid "Required"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2276
+msgid "Recommended"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2292
+msgid "WordPress Repository"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2295
+msgid "External Source"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2298
+msgid "Pre-Packaged"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2315
+msgid "Not Installed"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2319
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2321
+msgid "Active"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2327
+msgid "Required Update not Available"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2330
+msgid "Requires Update"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2333
+msgid "Update recommended"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2342
+#, php-format
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2388
+#, php-format
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+
+#: inc/class-tgm-plugin-activation.php:2392
+#, php-format
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+
+#: inc/class-tgm-plugin-activation.php:2396
+#, php-format
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+
+#: inc/class-tgm-plugin-activation.php:2400
+#, php-format
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+
+#: inc/class-tgm-plugin-activation.php:2482
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2490
+msgid "Installed version:"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2498
+msgid "Minimum required version:"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2510
+msgid "Available version:"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2533
+msgid "No plugins to install, update or activate."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2547
+msgid "Plugin"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2548
+msgid "Source"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2549
+msgid "Type"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2553
+msgid "Version"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2554
+msgid "Status"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2603
+#, php-format
+msgid "Install %2$s"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2608
+#, php-format
+msgid "Update %2$s"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2614
+#, php-format
+msgid "Activate %2$s"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2684
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2717
+msgid "Install"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2723
+msgid "Update"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2726
+msgid "Activate"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2757
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2759
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2800
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2802
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2908
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2934
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2952
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] ""
+
+#: inc/class-tgm-plugin-activation.php:3158
+msgid "Plugin activation failed."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3498
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3501
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3503
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3507
+msgid "The installation and activation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3509
+#: inc/class-tgm-plugin-activation.php:3517
+#, php-format
+msgid "%1$s done."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3510
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3512
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3515
+msgid "The installation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3518
+msgid "All installations have been completed."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3520
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/customizer-library/custom-controls/class-customizer-library-categories.php:29
+msgid "&mdash; Select &mdash;"
+msgstr ""
+
+#: inc/customizer-library/extensions/fonts.php:22
+msgid "Standard Fonts"
+msgstr ""
+
+#: inc/customizer-library/extensions/fonts.php:24
+msgid "Google Fonts"
+msgstr ""
+
+#: inc/customizer-library/extensions/fonts.php:129
+msgid "All"
+msgstr ""
+
+#: inc/customizer-library/extensions/fonts.php:130
+msgid "Cyrillic"
+msgstr ""
+
+#: inc/customizer-library/extensions/fonts.php:131
+msgid "Cyrillic Extended"
+msgstr ""
+
+#: inc/customizer-library/extensions/fonts.php:132
+msgid "Devanagari"
+msgstr ""
+
+#: inc/customizer-library/extensions/fonts.php:133
+msgid "Greek"
+msgstr ""
+
+#: inc/customizer-library/extensions/fonts.php:134
+msgid "Greek Extended"
+msgstr ""
+
+#: inc/customizer-library/extensions/fonts.php:135
+msgid "Khmer"
+msgstr ""
+
+#: inc/customizer-library/extensions/fonts.php:136
+msgid "Latin"
+msgstr ""
+
+#: inc/customizer-library/extensions/fonts.php:137
+msgid "Latin Extended"
+msgstr ""
+
+#: inc/customizer-library/extensions/fonts.php:138
+msgid "Vietnamese"
+msgstr ""
+
+#: inc/customizer-library/extensions/fonts.php:218
+msgctxt "font style"
+msgid "Serif"
+msgstr ""
+
+#: inc/customizer-library/extensions/fonts.php:222
+msgctxt "font style"
+msgid "Sans Serif"
+msgstr ""
+
+#: inc/customizer-library/extensions/fonts.php:226
+msgctxt "font style"
+msgid "Monospaced"
+msgstr ""
+
+#: inc/customizer-library/gmrtheme-customizer.php:102
+msgid "General"
+msgstr ""
+
+#: inc/customizer-library/gmrtheme-customizer.php:109
+msgid "General Layout"
+msgstr ""
+
+#: inc/customizer-library/gmrtheme-customizer.php:115
+msgid "Box"
+msgstr ""
+
+#: inc/customizer-library/gmrtheme-customizer.php:116
+msgid "Box Small (728px)"
+msgstr ""
+
+#: inc/customizer-library/gmrtheme-customizer.php:117
+#: inc/customizer-library/gmrtheme-customizer.php:940
+#: inc/customizer-library/gmrtheme-customizer.php:1258
+msgid "Fullwidth"
+msgstr ""
+
+#: inc/customizer-library/gmrtheme-customizer.php:122
+msgid "Select Layout"
+msgstr ""
+
+#: inc/customizer-library/gmrtheme-customizer.php:131
+msgid "Disable logo section"
+msgstr ""
+
+#: inc/customizer-library/gmrtheme-customizer.php:135
+msgid "If you disable logo section, ads side logo will not display."
+msgstr ""
+
+#: inc/customizer-library/gmrtheme-customizer.php:142
+msgid "General Colors"
+msgstr ""
+
+#: inc/customizer-library/gmrtheme-customizer.php:149
+msgid "Base Color Scheme"
+msgstr ""
+
+#: inc/customizer-library/gmrtheme-customizer.php:157
+msgid "Background Color - Content"
+msgstr ""
+
+#: inc/customizer-library/gmrtheme-customizer.php:166
+msgid "Font Color - Body"
+msgstr ""
+
+#: inc/customizer-library/gmrtheme-customizer.php:175
+msgid "Link Color - Body"
+msgstr ""
+
+#: inc/customizer-library/gmrtheme-customizer.php:184
+msgid "Hover Link Color - Body"
+msgstr ""
+
+#: inc/customizer-library/gmrtheme-customizer.php:193
+msgid "Color In Chrome Mobile"
+msgstr ""
+
+#: inc/customizer-library/gmrtheme-customizer.php:203
+msgid "Background Image"
+msgstr ""
+
+#: inc/customizer-library/gmrtheme-customizer.php:205
+msgid "Background Image only display, if using box layout."
+msgstr ""
+
+#: inc/customizer-library/gmrtheme-customizer.php:214
+msgid "Typography"
+msgstr ""
+
+#: inc/customizer-library/gmrtheme-customizer.php:221
+msgid "Heading Font"
+msgstr ""
+
+#: inc/customizer-library/gmrtheme-customizer.php:230
+msgid "Body Font"
+msgstr ""
+
+#: inc/customizer-library/gmrtheme-customizer.php:247
+msgid "Body font size"
+msgstr ""
+
+#: inc/customizer-library/gmrtheme-customizer.php:260
+msgid "Body font weight"
+msgstr ""
+
+#: inc/customizer-library/gmrtheme-customizer.php:264
+msgid "Note: some font maybe not display properly, if not display properly try to change this font weight."
+msgstr ""
+
+#: inc/customizer-library/gmrtheme-customizer.php:270
+msgid "h1 font size"
+msgstr ""
+
+#: inc/customizer-library/gmrtheme-customizer.php:283
+msgid "h2 font size"
+msgstr ""
+
+#: inc/customizer-library/gmrtheme-customizer.php:296
+msgid "h3 font size"
+msgstr ""
+
+#: inc/customizer-library/gmrtheme-customizer.php:309
+msgid "h4 font size"
+msgstr ""
+
+#: inc/customizer-library/gmrtheme-customizer.php:322
+msgid "h5 font size"
+msgstr ""
+
+#: inc/customizer-library/gmrtheme-customizer.php:335
+msgid "h6 font size"
+msgstr ""
+
+#: inc/customizer-library/gmrtheme-customizer.php:354
+msgid "Header"
+msgstr ""
+
+#: inc/customizer-library/gmrtheme-customizer.php:362
+msgid "Site Identity"
+msgstr ""
+
+#: inc/customizer-library/gmrtheme-customizer.php:365
+msgid "Allow you to add icon, logo, change site-title and tagline to your website."
+msgstr ""
+
+#: inc/customizer-library/gmrtheme-customizer.php:370
+msgid "Logo"
+msgstr ""
+
+#: inc/customizer-library/gmrtheme-customizer.php:374
+msgid "If using logo, Site Title and Tagline automatic disappear."
+msgstr ""
+
+#: inc/customizer-library/gmrtheme-customizer.php:379
+msgid "Logo Margin Top"
+msgstr ""
+
+#: inc/customizer-library/gmrtheme-customizer.php:394
+#: inc/customizer-library/gmrtheme-customizer.php:407
+msgid "Header Layout"
+msgstr ""
+
+#: inc/customizer-library/gmrtheme-customizer.php:400
+msgid "Logo + Search"
+msgstr ""
+
+#: inc/customizer-library/gmrtheme-customizer.php:401
+msgid "Logo + Ads"
+msgstr ""
+
+#: inc/customizer-library/gmrtheme-customizer.php:402
+msgid "Only Logo"
+msgstr ""
+
+#: inc/customizer-library/gmrtheme-customizer.php:417
+msgid "Header Image"
+msgstr ""
+
+#: inc/customizer-library/gmrtheme-customizer.php:420
+msgid "Allow you customize header sections in home page."
+msgstr ""
+
+#: inc/customizer-library/gmrtheme-customizer.php:425
+msgid "Disable header image"
+msgstr ""
+
+#: inc/customizer-library/gmrtheme-customizer.php:430
+msgid "If you disable header image, header section will replace with header color."
+msgstr ""
+
+#: inc/customizer-library/gmrtheme-customizer.php:443
+msgid "Background Size"
+msgstr ""
+
+#: inc/customizer-library/gmrtheme-customizer.php:448
+msgid "The background-size property specifies the size of the header images."
+msgstr ""
+
+#: inc/customizer-library/gmrtheme-customizer.php:448
+msgid "http://www.w3schools.com/cssref/css3_pr_background-size.asp"
+msgstr ""
+
+#: inc/customizer-library/gmrtheme-customizer.php:448
+#: inc/customizer-library/gmrtheme-customizer.php:467
+#: inc/customizer-library/gmrtheme-customizer.php:490
+#: inc/customizer-library/gmrtheme-customizer.php:509
+msgid "Learn more!"
+msgstr ""
+
+#: inc/customizer-library/gmrtheme-customizer.php:462
+msgid "Background Repeat"
+msgstr ""
+
+#: inc/customizer-library/gmrtheme-customizer.php:467
+msgid "The background-repeat property sets if/how a header image will be repeated."
+msgstr ""
+
+#: inc/customizer-library/gmrtheme-customizer.php:467
+msgid "http://www.w3schools.com/cssref/pr_background-repeat.asp"
+msgstr ""
+
+#: inc/customizer-library/gmrtheme-customizer.php:485
+msgid "Background Position"
+msgstr ""
+
+#: inc/customizer-library/gmrtheme-customizer.php:490
+msgid "The background-position property sets the starting position of a header image."
+msgstr ""
+
+#: inc/customizer-library/gmrtheme-customizer.php:490
+msgid "http://www.w3schools.com/cssref/pr_background-position.asp"
+msgstr ""
+
+#: inc/customizer-library/gmrtheme-customizer.php:504
+msgid "Background Attachment"
+msgstr ""
+
+#: inc/customizer-library/gmrtheme-customizer.php:509
+msgid "The background-attachment property sets whether a header image is fixed or scrolls with the rest of the page."
+msgstr ""
+
+#: inc/customizer-library/gmrtheme-customizer.php:509
+msgid "http://www.w3schools.com/cssref/pr_background-attachment.asp"
+msgstr ""
+
+#: inc/customizer-library/gmrtheme-customizer.php:516
+msgid "Header Color"
+msgstr ""
+
+#: inc/customizer-library/gmrtheme-customizer.php:519
+msgid "Allow you customize header color style."
+msgstr ""
+
+#: inc/customizer-library/gmrtheme-customizer.php:524
+msgid "Background Color - Header"
+msgstr ""
+
+#: inc/customizer-library/gmrtheme-customizer.php:532
+msgid "Site title color"
+msgstr ""
+
+#: inc/customizer-library/gmrtheme-customizer.php:540
+msgid "Site description color"
+msgstr ""
+
+#: inc/customizer-library/gmrtheme-customizer.php:548
+msgid "Background Menu"
+msgstr ""
+
+#: inc/customizer-library/gmrtheme-customizer.php:556
+msgid "Background Menu Hover and Active"
+msgstr ""
+
+#: inc/customizer-library/gmrtheme-customizer.php:564
+msgid "Text color - Menu"
+msgstr ""
+
+#: inc/customizer-library/gmrtheme-customizer.php:572
+msgid "Text hover color - Menu"
+msgstr ""
+
+#: inc/customizer-library/gmrtheme-customizer.php:580
+msgid "Background Top Navigation"
+msgstr ""
+
+#: inc/customizer-library/gmrtheme-customizer.php:588
+msgid "Text color - Top Navigation"
+msgstr ""
+
+#: inc/customizer-library/gmrtheme-customizer.php:596
+msgid "Text hover color - Top Navigation"
+msgstr ""
+
+#: inc/customizer-library/gmrtheme-customizer.php:605
+msgid "Social & Top Navigation"
+msgstr ""
+
+#: inc/customizer-library/gmrtheme-customizer.php:608
+msgid "Allow you add social icon and disable top navigation."
+msgstr ""
+
+#: inc/customizer-library/gmrtheme-customizer.php:613
+msgid "Disable top navigation"
+msgstr ""
+
+#: inc/customizer-library/gmrtheme-customizer.php:621
+msgid "Disable RSS icon in social"
+msgstr ""
+
+#: inc/customizer-library/gmrtheme-customizer.php:629
+msgid "FB Url"
+msgstr ""
+
+#: inc/customizer-library/gmrtheme-customizer.php:632
+#: inc/customizer-library/gmrtheme-customizer.php:641
+#: inc/customizer-library/gmrtheme-customizer.php:650
+#: inc/customizer-library/gmrtheme-customizer.php:659
+#: inc/customizer-library/gmrtheme-customizer.php:668
+#: inc/customizer-library/gmrtheme-customizer.php:677
+#: inc/customizer-library/gmrtheme-customizer.php:686
+#: inc/customizer-library/gmrtheme-customizer.php:695
+#: inc/customizer-library/gmrtheme-customizer.php:704
+#: inc/customizer-library/gmrtheme-customizer.php:713
+#: inc/customizer-library/gmrtheme-customizer.php:722
+#: inc/customizer-library/gmrtheme-customizer.php:731
+#: inc/customizer-library/gmrtheme-customizer.php:740
+#: inc/customizer-library/gmrtheme-customizer.php:749
+#: inc/customizer-library/gmrtheme-customizer.php:758
+#: inc/customizer-library/gmrtheme-customizer.php:767
+#: inc/customizer-library/gmrtheme-customizer.php:776
+#: inc/customizer-library/gmrtheme-customizer.php:785
+#: inc/customizer-library/gmrtheme-customizer.php:794
+#: inc/customizer-library/gmrtheme-customizer.php:803
+#: inc/customizer-library/gmrtheme-customizer.php:812
+#: inc/customizer-library/gmrtheme-customizer.php:821
+msgid "Fill using http:// or https://"
+msgstr ""
+
+#: inc/customizer-library/gmrtheme-customizer.php:638
+msgid "Twitter Url"
+msgstr ""
+
+#: inc/customizer-library/gmrtheme-customizer.php:647
+msgid "Pinterest Url"
+msgstr ""
+
+#: inc/customizer-library/gmrtheme-customizer.php:656
+msgid "Tumblr Url"
+msgstr ""
+
+#: inc/customizer-library/gmrtheme-customizer.php:665
+msgid "Stumbleupon Url"
+msgstr ""
+
+#: inc/customizer-library/gmrtheme-customizer.php:674
+msgid "Wordpress Url"
+msgstr ""
+
+#: inc/customizer-library/gmrtheme-customizer.php:683
+msgid "Instagram Url"
+msgstr ""
+
+#: inc/customizer-library/gmrtheme-customizer.php:692
+msgid "Dribbble Url"
+msgstr ""
+
+#: inc/customizer-library/gmrtheme-customizer.php:701
+msgid "Vimeo Url"
+msgstr ""
+
+#: inc/customizer-library/gmrtheme-customizer.php:710
+msgid "Linkedin Url"
+msgstr ""
+
+#: inc/customizer-library/gmrtheme-customizer.php:719
+msgid "Deviantart Url"
+msgstr ""
+
+#: inc/customizer-library/gmrtheme-customizer.php:728
+msgid "Myspace Url"
+msgstr ""
+
+#: inc/customizer-library/gmrtheme-customizer.php:737
+msgid "Skype Url"
+msgstr ""
+
+#: inc/customizer-library/gmrtheme-customizer.php:746
+msgid "Youtube Url"
+msgstr ""
+
+#: inc/customizer-library/gmrtheme-customizer.php:755
+msgid "Picassa Url"
+msgstr ""
+
+#: inc/customizer-library/gmrtheme-customizer.php:764
+msgid "Flickr Url"
+msgstr ""
+
+#: inc/customizer-library/gmrtheme-customizer.php:773
+msgid "Blogger Url"
+msgstr ""
+
+#: inc/customizer-library/gmrtheme-customizer.php:782
+msgid "Spotify Url"
+msgstr ""
+
+#: inc/customizer-library/gmrtheme-customizer.php:791
+msgid "Delicious Url"
+msgstr ""
+
+#: inc/customizer-library/gmrtheme-customizer.php:800
+msgid "Tiktok Url"
+msgstr ""
+
+#: inc/customizer-library/gmrtheme-customizer.php:809
+msgid "Telegram Url"
+msgstr ""
+
+#: inc/customizer-library/gmrtheme-customizer.php:818
+msgid "Soundcloud Url"
+msgstr ""
+
+#: inc/customizer-library/gmrtheme-customizer.php:828
+#: inc/customizer-library/gmrtheme-customizer.php:855
+msgid "Primary Menu Style"
+msgstr ""
+
+#: inc/customizer-library/gmrtheme-customizer.php:831
+msgid "Allow you customize menu style."
+msgstr ""
+
+#: inc/customizer-library/gmrtheme-customizer.php:835
+#: template-parts/content.php:187
+msgid "Sticky"
+msgstr ""
+
+#: inc/customizer-library/gmrtheme-customizer.php:836
+msgid "Static"
+msgstr ""
+
+#: inc/customizer-library/gmrtheme-customizer.php:841
+msgid "Sticky Menu"
+msgstr ""
+
+#: inc/customizer-library/gmrtheme-customizer.php:849
+msgid "Box Menu"
+msgstr ""
+
+#: inc/customizer-library/gmrtheme-customizer.php:850
+msgid "Fluid Menu"
+msgstr ""
+
+#: inc/customizer-library/gmrtheme-customizer.php:864
+msgid "Remove search button in Primary Menu"
+msgstr ""
+
+#: inc/customizer-library/gmrtheme-customizer.php:873
+msgid "Slider Options"
+msgstr ""
+
+#: inc/customizer-library/gmrtheme-customizer.php:876
+msgid "Allow you add slider shortcode, and display it in front page."
+msgstr ""
+
+#: inc/customizer-library/gmrtheme-customizer.php:881
+msgid "Slider Shortcode."
+msgstr ""
+
+#: inc/customizer-library/gmrtheme-customizer.php:885
+msgid "Please insert slider shortcode here."
+msgstr ""
+
+#: inc/customizer-library/gmrtheme-customizer.php:897
+msgid "Blog"
+msgstr ""
+
+#: inc/customizer-library/gmrtheme-customizer.php:904
+#: inc/customizer-library/gmrtheme-customizer.php:917
+msgid "Blog Layout"
+msgstr ""
+
+#: inc/customizer-library/gmrtheme-customizer.php:910
+msgid "Big thumnail with gallery"
+msgstr ""
+
+#: inc/customizer-library/gmrtheme-customizer.php:911
+msgid "Small thumbnail"
+msgstr ""
+
+#: inc/customizer-library/gmrtheme-customizer.php:912
+msgid "Grid"
+msgstr ""
+
+#: inc/customizer-library/gmrtheme-customizer.php:926
+msgid "Number Gallery"
+msgstr ""
+
+#: inc/customizer-library/gmrtheme-customizer.php:930
+msgid "Number gallery if using big thumbnail in gallery layout. Default 4 and maximal 20 images."
+msgstr ""
+
+#: inc/customizer-library/gmrtheme-customizer.php:945
+msgid "Blog Sidebar"
+msgstr ""
+
+#: inc/customizer-library/gmrtheme-customizer.php:954
+msgid "Single Sidebar"
+msgstr ""
+
+#: inc/customizer-library/gmrtheme-customizer.php:958
+msgid "Default layout sidebar for single, if you want disable sidebar only in special post or page, you can use post options."
+msgstr ""
+
+#: inc/customizer-library/gmrtheme-customizer.php:964
+msgid "Page Sidebar"
+msgstr ""
+
+#: inc/customizer-library/gmrtheme-customizer.php:968
+msgid "Default layout sidebar for page, if you want disable sidebar only in special post or page, you can use post options."
+msgstr ""
+
+#: inc/customizer-library/gmrtheme-customizer.php:975
+#: inc/customizer-library/gmrtheme-customizer.php:1027
+msgid "Blog Content"
+msgstr ""
+
+#: inc/customizer-library/gmrtheme-customizer.php:982
+msgid "Disable Blog Thumbnail"
+msgstr ""
+
+#: inc/customizer-library/gmrtheme-customizer.php:990
+msgid "Disable Single Thumbnail"
+msgstr ""
+
+#: inc/customizer-library/gmrtheme-customizer.php:998
+msgid "Disable Page Navigation Posts In Archives."
+msgstr ""
+
+#: inc/customizer-library/gmrtheme-customizer.php:1006
+msgid "Disable meta data in single"
+msgstr ""
+
+#: inc/customizer-library/gmrtheme-customizer.php:1014
+msgid "Disable Excerpt In Archives"
+msgstr ""
+
+#: inc/customizer-library/gmrtheme-customizer.php:1021
+msgid "Excerpt"
+msgstr ""
+
+#: inc/customizer-library/gmrtheme-customizer.php:1022
+msgid "Full Content"
+msgstr ""
+
+#: inc/customizer-library/gmrtheme-customizer.php:1036
+msgid "Excerpt length"
+msgstr ""
+
+#: inc/customizer-library/gmrtheme-customizer.php:1040
+msgid "If you choose excerpt, you can change excerpt lenght (default is 30)."
+msgstr ""
+
+#: inc/customizer-library/gmrtheme-customizer.php:1050
+msgid "Read more text"
+msgstr ""
+
+#: inc/customizer-library/gmrtheme-customizer.php:1053
+msgid "Add some text here to replace the default [...]. It will automatically be linked to your article."
+msgstr ""
+
+#: inc/customizer-library/gmrtheme-customizer.php:1065
+msgid "Footer"
+msgstr ""
+
+#: inc/customizer-library/gmrtheme-customizer.php:1072
+#: inc/customizer-library/gmrtheme-customizer.php:1087
+msgid "Widgets Footer"
+msgstr ""
+
+#: inc/customizer-library/gmrtheme-customizer.php:1075
+msgid "Footer widget columns."
+msgstr ""
+
+#: inc/customizer-library/gmrtheme-customizer.php:1079
+msgid "1 Column"
+msgstr ""
+
+#: inc/customizer-library/gmrtheme-customizer.php:1080
+#: inc/customizer-library/gmrtheme-customizer.php:1240
+msgid "2 Columns"
+msgstr ""
+
+#: inc/customizer-library/gmrtheme-customizer.php:1081
+#: inc/customizer-library/gmrtheme-customizer.php:1241
+msgid "3 Columns"
+msgstr ""
+
+#: inc/customizer-library/gmrtheme-customizer.php:1082
+#: inc/customizer-library/gmrtheme-customizer.php:1242
+msgid "4 Columns"
+msgstr ""
+
+#: inc/customizer-library/gmrtheme-customizer.php:1097
+msgid "Copyright"
+msgstr ""
+
+#: inc/customizer-library/gmrtheme-customizer.php:1110
+msgid "Footer Copyright."
+msgstr ""
+
+#: inc/customizer-library/gmrtheme-customizer.php:1114
+msgid "Display your own copyright text in footer."
+msgstr ""
+
+#: inc/customizer-library/gmrtheme-customizer.php:1120
+#: inc/customizer-library/gmrtheme-customizer.php:1126
+#: inc/customizer-library/gmrtheme-customizer.php:1137
+#: inc/customizer-library/gmrtheme-customizer.php:1143
+msgid "Insert License Key"
+msgstr ""
+
+#: inc/customizer-library/gmrtheme-customizer.php:1130
+#: inc/customizer-library/gmrtheme-customizer.php:1147
+msgid "<a href=\"plugins.php?page=galepro-license\" style=\"font-weight: 700;\">Please insert your own license key here</a>.<br /><br /> If you bought from kentooz, you can get license key in your memberarea. <a href=\"http://member.kentooz.com/softsale/license\" target=\"_blank\">http://member.kentooz.com/softsale/license</a>"
+msgstr ""
+
+#: inc/customizer-library/gmrtheme-customizer.php:1154
+msgid "Footer Color"
+msgstr ""
+
+#: inc/customizer-library/gmrtheme-customizer.php:1157
+msgid "Allow you customize footer color style."
+msgstr ""
+
+#: inc/customizer-library/gmrtheme-customizer.php:1162
+msgid "Background Color - Footer"
+msgstr ""
+
+#: inc/customizer-library/gmrtheme-customizer.php:1170
+msgid "Font Color - Footer"
+msgstr ""
+
+#: inc/customizer-library/gmrtheme-customizer.php:1178
+msgid "Link Color - Footer"
+msgstr ""
+
+#: inc/customizer-library/gmrtheme-customizer.php:1186
+msgid "Hover Link Color - Footer"
+msgstr ""
+
+#: inc/customizer-library/gmrtheme-customizer.php:1194
+msgid "Background Color - Copyright"
+msgstr ""
+
+#: inc/customizer-library/gmrtheme-customizer.php:1202
+msgid "Font Color - Copyright"
+msgstr ""
+
+#: inc/customizer-library/gmrtheme-customizer.php:1210
+msgid "Link Color - Copyright"
+msgstr ""
+
+#: inc/customizer-library/gmrtheme-customizer.php:1218
+msgid "Hover Link Color - Copyright"
+msgstr ""
+
+#: inc/customizer-library/gmrtheme-customizer.php:1235
+msgid "Woocommerce"
+msgstr ""
+
+#: inc/customizer-library/gmrtheme-customizer.php:1243
+msgid "5 Columns"
+msgstr ""
+
+#: inc/customizer-library/gmrtheme-customizer.php:1244
+msgid "6 Columns"
+msgstr ""
+
+#: inc/customizer-library/gmrtheme-customizer.php:1249
+msgid "Product Columns"
+msgstr ""
+
+#: inc/customizer-library/gmrtheme-customizer.php:1263
+msgid "Woocommerce Sidebar"
+msgstr ""
+
+#: inc/customizer-library/gmrtheme-customizer.php:1271
+msgid "6 Products"
+msgstr ""
+
+#: inc/customizer-library/gmrtheme-customizer.php:1272
+msgid "7 Products"
+msgstr ""
+
+#: inc/customizer-library/gmrtheme-customizer.php:1273
+msgid "8 Products"
+msgstr ""
+
+#: inc/customizer-library/gmrtheme-customizer.php:1274
+msgid "9 Products"
+msgstr ""
+
+#: inc/customizer-library/gmrtheme-customizer.php:1275
+msgid "10 Products"
+msgstr ""
+
+#: inc/customizer-library/gmrtheme-customizer.php:1276
+msgid "11 Products"
+msgstr ""
+
+#: inc/customizer-library/gmrtheme-customizer.php:1277
+msgid "12 Products"
+msgstr ""
+
+#: inc/customizer-library/gmrtheme-customizer.php:1278
+msgid "13 Products"
+msgstr ""
+
+#: inc/customizer-library/gmrtheme-customizer.php:1279
+msgid "14 Products"
+msgstr ""
+
+#: inc/customizer-library/gmrtheme-customizer.php:1280
+msgid "15 Products"
+msgstr ""
+
+#: inc/customizer-library/gmrtheme-customizer.php:1281
+msgid "16 Products"
+msgstr ""
+
+#: inc/customizer-library/gmrtheme-customizer.php:1282
+msgid "17 Products"
+msgstr ""
+
+#: inc/customizer-library/gmrtheme-customizer.php:1283
+msgid "18 Products"
+msgstr ""
+
+#: inc/customizer-library/gmrtheme-customizer.php:1284
+msgid "19 Products"
+msgstr ""
+
+#: inc/customizer-library/gmrtheme-customizer.php:1285
+msgid "20 Products"
+msgstr ""
+
+#: inc/customizer-library/gmrtheme-customizer.php:1286
+msgid "21 Products"
+msgstr ""
+
+#: inc/customizer-library/gmrtheme-customizer.php:1287
+msgid "22 Products"
+msgstr ""
+
+#: inc/customizer-library/gmrtheme-customizer.php:1288
+msgid "23 Products"
+msgstr ""
+
+#: inc/customizer-library/gmrtheme-customizer.php:1289
+msgid "24 Products"
+msgstr ""
+
+#: inc/customizer-library/gmrtheme-customizer.php:1290
+msgid "25 Products"
+msgstr ""
+
+#: inc/customizer-library/gmrtheme-customizer.php:1291
+msgid "26 Products"
+msgstr ""
+
+#: inc/customizer-library/gmrtheme-customizer.php:1292
+msgid "27 Products"
+msgstr ""
+
+#: inc/customizer-library/gmrtheme-customizer.php:1293
+msgid "28 Products"
+msgstr ""
+
+#: inc/customizer-library/gmrtheme-customizer.php:1294
+msgid "29 Products"
+msgstr ""
+
+#: inc/customizer-library/gmrtheme-customizer.php:1295
+msgid "30 Products"
+msgstr ""
+
+#: inc/customizer-library/gmrtheme-customizer.php:1300
+msgid "Woocommerce Product Per Page"
+msgstr ""
+
+#: inc/customizer-library/gmrtheme-customizer.php:1309
+msgid "Remove Cart button from menu"
+msgstr ""
+
+#: inc/dashboard.php:25
+msgid "Kentooz Theme"
+msgstr ""
+
+#: inc/extras.php:134
+msgid "Gravatar Image"
+msgstr ""
+
+#: inc/extras.php:134
+msgid "Gravatar"
+msgstr ""
+
+#: inc/importer.php:33
+msgid "Import demo from https://demo.idtheme.com/galepro/."
+msgstr ""
+
+#: inc/importer.php:41
+msgid "Import demo from https://demo.idtheme.com/galepro-galeri/."
+msgstr ""
+
+#: inc/importer.php:49
+msgid "Import demo from https://demo.idtheme.com/galepro-grid/."
+msgstr ""
+
+#: inc/template-tags.php:42
+#, php-format
+msgid "by %s"
+msgstr ""
+
+#: inc/template-tags.php:43 template-parts/content.php:71
+#: template-parts/content.php:84 template-parts/content.php:112
+#: template-parts/content.php:137
+msgid "Permalink to: "
+msgstr ""
+
+#: inc/template-tags.php:62
+msgid "View"
+msgstr ""
+
+#: inc/template-tags.php:83 inc/template-tags.php:90
+msgid ", "
+msgstr ""
+
+#: inc/template-tags.php:86
+#, php-format
+msgid "Posted in %1$s"
+msgstr ""
+
+#: inc/template-tags.php:93
+#, php-format
+msgid "Tagged %1$s"
+msgstr ""
+
+#: inc/template-tags.php:100
+#, php-format
+msgid "Leave a Comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr ""
+
+#: inc/template-tags.php:107
+#, php-format
+msgid "Edit %s"
+msgstr ""
+
+#: inc/template-tags.php:172
+msgid "Prev"
+msgstr ""
+
+#: inc/template-tags.php:173
+msgid "Next"
+msgstr ""
+
+#: inc/template-tags.php:295 template-parts/content.php:176
+msgid "Pages:"
+msgstr ""
+
+#: page.php:53 single.php:45
+msgid "Add Comment"
+msgstr ""
+
+#: search.php:36
+msgid "Search Results For: "
+msgstr ""
+
+#: template-parts/content-none.php:28
+#, php-format
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: template-parts/content-none.php:32
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr ""
+
+#: template-parts/content-none.php:39
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr ""
+
+#: template-parts/content-page.php:33
+msgid "Edit"
+msgstr ""
+
+#: template-parts/content-single.php:67
+msgid "<span>Previous post</span> %title"
+msgstr ""
+
+#: template-parts/content-single.php:68
+msgid "<span>Next post</span> %title"
+msgstr ""
